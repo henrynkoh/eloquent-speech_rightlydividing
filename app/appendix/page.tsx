@@ -3414,6 +3414,471 @@ export default function AppendixPage() {
           </div>
         </section>
 
+        {/* Worshipping the Creature More Than the Creator */}
+        <section className="bg-white rounded-xl shadow-lg p-8 mb-8">
+          <h2 className="text-4xl font-bold text-gray-900 mb-6 text-center">
+            <span className="bg-gradient-to-r from-indigo-600 to-pink-600 bg-clip-text text-transparent">
+              The Folly of Worshipping the Creature More Than the Creator (Romans 1:23, 25)
+            </span>
+          </h2>
+          
+          <div className="bg-gradient-to-r from-red-50 to-orange-50 border-l-4 border-red-500 p-6 mb-8 rounded">
+            <p className="text-2xl font-semibold text-gray-900 mb-4">
+              "And changed the glory of the uncorruptible God into an image made like to corruptible man, and to birds, and fourfooted beasts, and creeping things."
+            </p>
+            <p className="text-right text-gray-600 text-lg mb-4">— Romans 1:23 (KJV)</p>
+            <p className="text-2xl font-semibold text-gray-900 mb-4">
+              "Who changed the truth of God into a lie, and worshipped and served the creature more than the Creator, who is blessed for ever. Amen."
+            </p>
+            <p className="text-right text-gray-600 text-lg">— Romans 1:25 (KJV)</p>
+          </div>
+
+          <p className="text-lg text-gray-700 leading-relaxed mb-8">
+            The ultimate folly of fallen humanity is to worship and serve the creature—the created thing—more than the Creator. 
+            This is the great exchange: trading the truth of God for a lie, the glory of the incorruptible God for images of 
+            corruptible man and beasts. This is the height of human foolishness and the root of all idolatry.
+          </p>
+
+          {/* Changed the Glory of God */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Changed the Glory of the Incorruptible God</h3>
+            
+            <div className="bg-indigo-50 border-l-4 border-indigo-500 p-6 mb-6 rounded">
+              <p className="text-xl font-semibold text-gray-900 mb-4">
+                "And changed the glory of the uncorruptible God into an image made like to corruptible man, and to birds, and fourfooted beasts, and creeping things."
+              </p>
+              <p className="text-right text-gray-600">— Romans 1:23 (KJV)</p>
+            </div>
+
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              Humanity exchanged the glory of the incorruptible, eternal, infinite God for images of corruptible, temporal, 
+              finite creatures. They traded the Creator for the created. This is the great exchange—the ultimate folly.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And changed the glory of the uncorruptible God into an image made like to corruptible man, and to birds, and fourfooted beasts, and creeping things."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:23 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Forasmuch then as we are the offspring of God, we ought not to think that the Godhead is like unto gold, or silver, or stone, graven by art and man's device."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Acts 17:29 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth: Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Exodus 20:4-5 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Ye shall make you no idols nor graven image, neither rear you up a standing image, neither shall ye set up any image of stone in your land, to bow down unto it: for I am the LORD your God."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Leviticus 26:1 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Their idols are silver and gold, the work of men's hands. They have mouths, but they speak not: eyes have they, but they see not: They have ears, but they hear not: noses have they, but they smell not: They have hands, but they handle not: feet have they, but they walk not: neither speak they through their throat."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Psalm 115:4-7 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"They that make them are like unto them; so is every one that trusteth in them."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Psalm 115:8 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Worshipped and Served the Creature */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Worshipped and Served the Creature More Than the Creator</h3>
+            
+            <div className="bg-red-50 border-l-4 border-red-500 p-6 mb-6 rounded">
+              <p className="text-xl font-semibold text-gray-900 mb-4">
+                "Who changed the truth of God into a lie, and worshipped and served the creature more than the Creator, who is blessed for ever. Amen."
+              </p>
+              <p className="text-right text-gray-600">— Romans 1:25 (KJV)</p>
+            </div>
+
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              The ultimate folly: worshipping and serving the creature—the created thing—more than the Creator. This is idolatry 
+              in its purest form. It is giving to the created what belongs only to the Creator. It is the great exchange—truth for a lie.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Who changed the truth of God into a lie, and worshipped and served the creature more than the Creator, who is blessed for ever. Amen."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:25 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For all the gods of the nations are idols: but the LORD made the heavens."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Psalm 96:5 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Confounded be all they that serve graven images, that boast themselves of idols: worship him, all ye gods."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Psalm 97:7 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For they themselves shew of us what manner of entering in we had unto you, and how ye turned to God from idols to serve the living and true God."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Thessalonians 1:9 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Little children, keep yourselves from idols. Amen."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 John 5:21 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Wherefore, my dearly beloved, flee from idolatry."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 10:14 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Changed the Truth of God into a Lie */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Changed the Truth of God into a Lie</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              The exchange is clear: the truth of God for a lie. The glory of the incorruptible God for images of corruptible creatures. 
+              This is not just a mistake—it is a deliberate exchange, a willful rejection of truth for falsehood.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Who changed the truth of God into a lie, and worshipped and served the creature more than the Creator, who is blessed for ever. Amen."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:25 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And changed the glory of the uncorruptible God into an image made like to corruptible man, and to birds, and fourfooted beasts, and creeping things."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:23 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Because that, when they knew God, they glorified him not as God, neither were thankful; but became vain in their imaginations, and their foolish heart was darkened."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:21 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And even as they did not like to retain God in their knowledge, God gave them over to a reprobate mind, to do those things which are not convenient."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:28 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who hold the truth in unrighteousness."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:18 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* The Creator is Blessed Forever */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">The Creator is Blessed Forever</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              The Creator—not the creature—is blessed forever. He alone is worthy of worship. He alone is eternal, incorruptible, 
+              infinite. The creature is temporal, corruptible, finite. To worship the creature is to worship that which will perish. 
+              To worship the Creator is to worship Him who is blessed forever.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Who changed the truth of God into a lie, and worshipped and served the creature more than the Creator, who is blessed for ever. Amen."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:25 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Blessed be the LORD God of Israel from everlasting to everlasting: and let all the people say, Amen. Praise ye the LORD."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Psalm 106:48 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Blessed be the LORD God, the God of Israel, who only doeth wondrous things. And blessed be his glorious name for ever: and let the whole earth be filled with his glory; Amen, and Amen."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Psalm 72:18-19 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 4:11 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 1:8 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For of him, and through him, and to him, are all things: to whom be glory for ever. Amen."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 11:36 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Modern Forms of Creature Worship */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Modern Forms of Creature Worship</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              Creature worship is not limited to ancient idols of wood and stone. Modern forms include worshipping money, success, 
+              self, science, nature, or any created thing more than the Creator. Anything that takes the place of God in our hearts 
+              is idolatry—worshipping the creature more than the Creator.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Who changed the truth of God into a lie, and worshipped and served the creature more than the Creator, who is blessed for ever. Amen."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:25 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Timothy 6:10 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 6:24 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Mortify therefore your members which are upon the earth; fornication, uncleanness, inordinate affection, evil concupiscence, and covetousness, which is idolatry."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Colossians 3:5 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Timothy 3:2 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Little children, keep yourselves from idols. Amen."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 John 5:21 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* The Folly of Idolatry */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">The Folly of Idolatry</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              Idolatry is the ultimate folly. It is worshipping that which is created instead of the Creator. It is giving to 
+              the temporal what belongs to the eternal. It is serving the finite instead of the infinite. It is the great exchange—truth for a lie.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And changed the glory of the uncorruptible God into an image made like to corruptible man, and to birds, and fourfooted beasts, and creeping things."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:23 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Who changed the truth of God into a lie, and worshipped and served the creature more than the Creator, who is blessed for ever. Amen."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:25 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Their idols are silver and gold, the work of men's hands. They have mouths, but they speak not: eyes have they, but they see not: They have ears, but they hear not: noses have they, but they smell not: They have hands, but they handle not: feet have they, but they walk not: neither speak they through their throat."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Psalm 115:4-7 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"They that make them are like unto them; so is every one that trusteth in them."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Psalm 115:8 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For all the gods of the nations are idols: but the LORD made the heavens."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Psalm 96:5 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Wherefore, my dearly beloved, flee from idolatry."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 10:14 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Little children, keep yourselves from idols. Amen."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 John 5:21 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Additional Supporting Verses */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Additional Supporting Verses</h3>
+            
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Thou shalt have no other gods before me. Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth: Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Exodus 20:3-5 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Ye shall make you no idols nor graven image, neither rear you up a standing image, neither shall ye set up any image of stone in your land, to bow down unto it: for I am the LORD your God."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Leviticus 26:1 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Forasmuch then as we are the offspring of God, we ought not to think that the Godhead is like unto gold, or silver, or stone, graven by art and man's device."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Acts 17:29 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For they themselves shew of us what manner of entering in we had unto you, and how ye turned to God from idols to serve the living and true God."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Thessalonians 1:9 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Confounded be all they that serve graven images, that boast themselves of idols: worship him, all ye gods."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Psalm 97:7 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For of him, and through him, and to him, are all things: to whom be glory for ever. Amen."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 11:36 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 4:11 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 1:8 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Application to Communication */}
+          <div className="bg-gradient-to-r from-amber-50 to-orange-50 rounded-xl p-8 mb-8 border-l-4 border-amber-500">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Application to Communication</h3>
+            <p className="text-lg text-gray-700 leading-relaxed mb-4">
+              Understanding the folly of worshipping the creature more than the Creator transforms how we communicate:
+            </p>
+            <ul className="space-y-3 text-gray-700">
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Worship the Creator:</strong> In all communication, point people to the Creator, not the creature. The Creator alone is worthy of worship and praise.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Expose the Folly:</strong> Clearly show the foolishness of worshipping created things—money, success, self, nature—instead of the Creator.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>The Great Exchange:</strong> Explain how humanity exchanged the truth of God for a lie, the glory of the incorruptible God for images of corruptible creatures.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Modern Idolatry:</strong> Help people recognize modern forms of idolatry—anything that takes God's place in our hearts is worshipping the creature.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>The Creator is Blessed Forever:</strong> Emphasize that the Creator—not the creature—is blessed forever. He alone is eternal, incorruptible, infinite.</span>
+              </li>
+            </ul>
+            <p className="text-lg text-gray-700 leading-relaxed mt-6">
+              Rightly dividing means understanding the ultimate folly: worshipping and serving the creature more than the Creator. 
+              This is the great exchange—the truth of God for a lie, the glory of the incorruptible God for images of corruptible creatures. 
+              The Creator is blessed forever. He alone is worthy of worship. Speak this truth clearly, exposing the folly of idolatry 
+              and pointing people to the one true Creator God.
+            </p>
+          </div>
+        </section>
+
         {/* Conclusion */}
         <section className="bg-gradient-to-r from-indigo-600 to-pink-600 rounded-xl shadow-lg p-8 text-white">
           <h2 className="text-3xl font-bold mb-6">Conclusion: Rightly Dividing for Clear Communication</h2>
@@ -3448,6 +3913,10 @@ export default function AppendixPage() {
             <li>The fool says in his heart, "There is no God" - but they are without excuse (Psalm 14:1, 53:1)</li>
             <li>Creation reveals God's eternal power and Godhead - evidence is everywhere</li>
             <li>Those who deny God suppress the truth and their hearts are darkened</li>
+            <li>Humanity changed the glory of the incorruptible God into images of corruptible creatures (Romans 1:23)</li>
+            <li>They worshipped and served the creature more than the Creator, who is blessed forever (Romans 1:25)</li>
+            <li>This is the ultimate folly - the great exchange of truth for a lie</li>
+            <li>Modern idolatry includes worshipping money, success, self, or any created thing more than the Creator</li>
           </ul>
           <p className="text-lg leading-relaxed">
             When you understand these distinctions, you speak with authority that comes from knowing truth itself. You're not seeking approval 
@@ -3457,7 +3926,9 @@ export default function AppendixPage() {
             rewards are earned. You stand on the foundation Paul laid as the wise masterbuilder—Jesus Christ and the grace gospel. 
             This foundation is secure. Build wisely upon it. You know that God's existence is manifest in creation—clearly seen, 
             understood by the things that are made. The fool says there is no God, but they are without excuse. Creation itself testifies 
-            to the Creator. This is the foundation of eloquent, confident communication.
+            to the Creator. You understand the ultimate folly: worshipping and serving the creature more than the Creator. This is the great 
+            exchange—the truth of God for a lie, the glory of the incorruptible God for images of corruptible creatures. The Creator is blessed 
+            forever. He alone is worthy of worship. This is the foundation of eloquent, confident communication.
           </p>
           <div className="mt-6 p-4 bg-white bg-opacity-20 rounded-lg backdrop-blur-sm">
             <p className="text-xl italic mb-2">
