@@ -1576,6 +1576,672 @@ export default function AppendixPage() {
           </div>
         </section>
 
+        {/* Receive Reward vs. Suffer Loss */}
+        <section className="bg-white rounded-xl shadow-lg p-8 mb-8">
+          <h2 className="text-4xl font-bold text-gray-900 mb-6 text-center">
+            <span className="bg-gradient-to-r from-indigo-600 to-pink-600 bg-clip-text text-transparent">
+              Receive a Reward vs. Suffer Loss: Each Man's Work (1 Corinthians 3:10-15)
+            </span>
+          </h2>
+          
+          <div className="bg-gradient-to-r from-blue-50 to-indigo-50 border-l-4 border-blue-500 p-6 mb-8 rounded">
+            <p className="text-2xl font-semibold text-gray-900 mb-4">
+              "According to the grace of God which is given unto me, as a wise masterbuilder, I have laid the foundation, and another buildeth thereon. But let every man take heed how he buildeth thereupon. For other foundation can no man lay than that is laid, which is Jesus Christ. Now if any man build upon this foundation gold, silver, precious stones, wood, hay, stubble; Every man's work shall be made manifest: for the day shall declare it, because it shall be revealed by fire; and the fire shall try every man's work of what sort it is. If any man's work abide which he hath built thereupon, he shall receive a reward. If any man's work shall be burned, he shall suffer loss: but he himself shall be saved; yet so as by fire."
+            </p>
+            <p className="text-right text-gray-600 text-lg">— 1 Corinthians 3:10-15 (KJV)</p>
+          </div>
+
+          <p className="text-lg text-gray-700 leading-relaxed mb-8">
+            This passage reveals a crucial distinction: salvation is by grace through faith, but rewards are based on our works. 
+            Every believer is saved, but not every believer receives rewards. Some build with gold, silver, and precious stones 
+            (valuable works that abide); others build with wood, hay, and stubble (worthless works that burn). Understanding this 
+            distinction is essential for rightly dividing the word of truth.
+          </p>
+
+          {/* The Foundation: Jesus Christ */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">The Foundation: Jesus Christ Alone</h3>
+            
+            <div className="bg-green-50 border-l-4 border-green-500 p-6 mb-6 rounded">
+              <p className="text-xl font-semibold text-gray-900 mb-4">
+                "For other foundation can no man lay than that is laid, which is Jesus Christ."
+              </p>
+              <p className="text-right text-gray-600">— 1 Corinthians 3:11 (KJV)</p>
+            </div>
+
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              The foundation is Jesus Christ. This foundation is laid by God, not by man. No one can lay a different foundation. 
+              All believers stand on the same foundation—the finished work of Christ. Salvation is secure because the foundation is secure.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For other foundation can no man lay than that is laid, which is Jesus Christ."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:11 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Therefore thus saith the Lord GOD, Behold, I lay in Zion for a foundation a stone, a tried stone, a precious corner stone, a sure foundation: he that believeth shall not make haste."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Isaiah 28:16 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Jesus saith unto them, Did ye never read in the scriptures, The stone which the builders rejected, the same is become the head of the corner: this is the Lord's doing, and it is marvellous in our eyes?"</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 21:42 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"To whom coming, as unto a living stone, disallowed indeed of men, but chosen of God, and precious, Ye also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Peter 2:4-5 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Building Materials: Gold, Silver, Precious Stones vs. Wood, Hay, Stubble */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Building Materials: Valuable vs. Worthless</h3>
+            
+            <div className="grid md:grid-cols-2 gap-6 mb-8">
+              {/* Valuable Materials */}
+              <div className="bg-gradient-to-br from-yellow-50 to-amber-50 rounded-lg p-6 border-l-4 border-yellow-500">
+                <h4 className="text-2xl font-bold text-gray-900 mb-4">Gold, Silver, Precious Stones</h4>
+                <p className="text-lg text-gray-700 mb-4">
+                  These represent valuable works that abide the fire—works done in the Spirit, for God's glory, with eternal value.
+                </p>
+                <div className="space-y-3">
+                  <div className="bg-white p-3 rounded">
+                    <p className="text-gray-800 mb-1">
+                      <strong>"Now if any man build upon this foundation gold, silver, precious stones..."</strong>
+                    </p>
+                    <p className="text-xs text-gray-600 text-right">— 1 Corinthians 3:12 (KJV)</p>
+                  </div>
+                  <div className="bg-white p-3 rounded">
+                    <p className="text-gray-800 mb-1">
+                      <strong>"If any man's work abide which he hath built thereupon, he shall receive a reward."</strong>
+                    </p>
+                    <p className="text-xs text-gray-600 text-right">— 1 Corinthians 3:14 (KJV)</p>
+                  </div>
+                  <p className="text-sm text-gray-700 mt-4">
+                    <strong>Examples:</strong> Works done by the Spirit, for God's glory, with love, building up the body of Christ, 
+                    using spiritual gifts, walking in the Spirit, serving others, sharing the gospel.
+                  </p>
+                </div>
+              </div>
+
+              {/* Worthless Materials */}
+              <div className="bg-gradient-to-br from-gray-50 to-slate-50 rounded-lg p-6 border-l-4 border-gray-500">
+                <h4 className="text-2xl font-bold text-gray-900 mb-4">Wood, Hay, Stubble</h4>
+                <p className="text-lg text-gray-700 mb-4">
+                  These represent worthless works that burn—works done in the flesh, for self-glory, with no eternal value.
+                </p>
+                <div className="space-y-3">
+                  <div className="bg-white p-3 rounded">
+                    <p className="text-gray-800 mb-1">
+                      <strong>"...wood, hay, stubble..."</strong>
+                    </p>
+                    <p className="text-xs text-gray-600 text-right">— 1 Corinthians 3:12 (KJV)</p>
+                  </div>
+                  <div className="bg-white p-3 rounded">
+                    <p className="text-gray-800 mb-1">
+                      <strong>"If any man's work shall be burned, he shall suffer loss: but he himself shall be saved; yet so as by fire."</strong>
+                    </p>
+                    <p className="text-xs text-gray-600 text-right">— 1 Corinthians 3:15 (KJV)</p>
+                  </div>
+                  <p className="text-sm text-gray-700 mt-4">
+                    <strong>Examples:</strong> Works done in the flesh, for self-glory, without love, building on self, 
+                    following the law for approval, seeking human praise, empty religious rituals.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {/* Receive a Reward */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Receive a Reward: When Works Abide</h3>
+            
+            <div className="bg-green-50 border-l-4 border-green-500 p-6 mb-6 rounded">
+              <p className="text-xl font-semibold text-gray-900 mb-4">
+                "If any man's work abide which he hath built thereupon, he shall receive a reward."
+              </p>
+              <p className="text-right text-gray-600">— 1 Corinthians 3:14 (KJV)</p>
+            </div>
+
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              When you build with gold, silver, and precious stones—valuable works done in the Spirit—your works will abide the fire. 
+              You will receive a reward. This is not about earning salvation; it's about receiving rewards for faithful service.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"If any man's work abide which he hath built thereupon, he shall receive a reward."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:14 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For we must all appear before the judgment seat of Christ; that every one may receive the things done in his body, according to that he hath done, whether it be good or bad."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Corinthians 5:10 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And, behold, I come quickly; and my reward is with me, to give every man according as his work shall be."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 22:12 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For the Son of man shall come in the glory of his Father with his angels; and then he shall reward every man according to his works."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 16:27 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Hebrews 11:6 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Know ye not that they which run in a race run all, but one receiveth the prize? So run, that ye may obtain."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 9:24 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And every man that striveth for the mastery is temperate in all things. Now they do it to obtain a corruptible crown; but we an incorruptible."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 9:25 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Henceforth there is laid up for me a crown of righteousness, which the Lord, the righteous judge, shall give me at that day: and not to me only, but unto all them also that love his appearing."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Timothy 4:8 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— James 1:12 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And when the chief Shepherd shall appear, ye shall receive a crown of glory that fadeth not away."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Peter 5:4 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Behold, I come quickly: hold that fast which thou hast, that no man take thy crown."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 3:11 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For what is our hope, or joy, or crown of rejoicing? Are not even ye in the presence of our Lord Jesus Christ at his coming?"</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Thessalonians 2:19 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Suffer Loss */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Suffer Loss: When Works Are Burned</h3>
+            
+            <div className="bg-red-50 border-l-4 border-red-500 p-6 mb-6 rounded">
+              <p className="text-xl font-semibold text-gray-900 mb-4">
+                "If any man's work shall be burned, he shall suffer loss: but he himself shall be saved; yet so as by fire."
+              </p>
+              <p className="text-right text-gray-600">— 1 Corinthians 3:15 (KJV)</p>
+            </div>
+
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              When you build with wood, hay, and stubble—worthless works done in the flesh—your works will be burned. 
+              You will suffer loss. But notice: you yourself will be saved. Salvation is not lost, but rewards are. 
+              This is the crucial distinction: salvation is by grace; rewards are by works.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"If any man's work shall be burned, he shall suffer loss: but he himself shall be saved; yet so as by fire."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:15 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Every man's work shall be made manifest: for the day shall declare it, because it shall be revealed by fire; and the fire shall try every man's work of what sort it is."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:13 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For we must all appear before the judgment seat of Christ; that every one may receive the things done in his body, according to that he hath done, whether it be good or bad."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Corinthians 5:10 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For other foundation can no man lay than that is laid, which is Jesus Christ. Now if any man build upon this foundation gold, silver, precious stones, wood, hay, stubble; Every man's work shall be made manifest: for the day shall declare it, because it shall be revealed by fire; and the fire shall try every man's work of what sort it is."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:11-13 (KJV)</p>
+              </div>
+            </div>
+
+            <div className="bg-yellow-50 border-l-4 border-yellow-500 p-6 mt-6 rounded">
+              <p className="text-lg font-semibold text-gray-900 mb-2">Important Distinction:</p>
+              <p className="text-gray-800 leading-relaxed">
+                <strong>Salvation is not lost.</strong> The verse clearly states: "but he himself shall be saved." 
+                Salvation is by grace through faith, not by works. But <strong>rewards are lost.</strong> Works done in the flesh 
+                burn up, and the believer suffers loss—loss of rewards, not loss of salvation.
+              </p>
+            </div>
+          </div>
+
+          {/* The Fire: Testing Works */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">The Fire: Testing Every Man's Work</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              The day will declare every man's work. Fire will test it. Valuable works (gold, silver, precious stones) will abide. 
+              Worthless works (wood, hay, stubble) will burn. This is not about salvation; it's about rewards.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Every man's work shall be made manifest: for the day shall declare it, because it shall be revealed by fire; and the fire shall try every man's work of what sort it is."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:13 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But who may abide the day of his coming? and who shall stand when he appeareth? for he is like a refiner's fire, and like fullers' soap."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Malachi 3:2 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And he shall sit as a refiner and purifier of silver: and he shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the LORD an offering in righteousness."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Malachi 3:3 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"That the trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire, might be found unto praise and honour and glory at the appearing of Jesus Christ."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Peter 1:7 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Salvation vs. Rewards: The Crucial Distinction */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Salvation vs. Rewards: The Crucial Distinction</h3>
+            
+            <div className="grid md:grid-cols-2 gap-6 mb-8">
+              {/* Salvation */}
+              <div className="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-lg p-6 border-l-4 border-blue-500">
+                <h4 className="text-2xl font-bold text-gray-900 mb-4">Salvation (By Grace)</h4>
+                <div className="space-y-3">
+                  <div className="bg-white p-3 rounded">
+                    <p className="text-gray-800 mb-1">
+                      <strong>"For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast."</strong>
+                    </p>
+                    <p className="text-xs text-gray-600 text-right">— Ephesians 2:8-9 (KJV)</p>
+                  </div>
+                  <div className="bg-white p-3 rounded">
+                    <p className="text-gray-800 mb-1">
+                      <strong>"But he himself shall be saved; yet so as by fire."</strong>
+                    </p>
+                    <p className="text-xs text-gray-600 text-right">— 1 Corinthians 3:15 (KJV)</p>
+                  </div>
+                  <div className="bg-white p-3 rounded">
+                    <p className="text-gray-800 mb-1">
+                      <strong>"And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand."</strong>
+                    </p>
+                    <p className="text-xs text-gray-600 text-right">— John 10:28 (KJV)</p>
+                  </div>
+                  <p className="text-sm text-gray-700 mt-4">
+                    <strong>Key Point:</strong> Salvation is by grace through faith. It cannot be lost. Even if all works burn, 
+                    the believer is still saved.
+                  </p>
+                </div>
+              </div>
+
+              {/* Rewards */}
+              <div className="bg-gradient-to-br from-purple-50 to-pink-50 rounded-lg p-6 border-l-4 border-purple-500">
+                <h4 className="text-2xl font-bold text-gray-900 mb-4">Rewards (By Works)</h4>
+                <div className="space-y-3">
+                  <div className="bg-white p-3 rounded">
+                    <p className="text-gray-800 mb-1">
+                      <strong>"If any man's work abide which he hath built thereupon, he shall receive a reward."</strong>
+                    </p>
+                    <p className="text-xs text-gray-600 text-right">— 1 Corinthians 3:14 (KJV)</p>
+                  </div>
+                  <div className="bg-white p-3 rounded">
+                    <p className="text-gray-800 mb-1">
+                      <strong>"If any man's work shall be burned, he shall suffer loss: but he himself shall be saved."</strong>
+                    </p>
+                    <p className="text-xs text-gray-600 text-right">— 1 Corinthians 3:15 (KJV)</p>
+                  </div>
+                  <div className="bg-white p-3 rounded">
+                    <p className="text-gray-800 mb-1">
+                      <strong>"For we must all appear before the judgment seat of Christ; that every one may receive the things done in his body, according to that he hath done, whether it be good or bad."</strong>
+                    </p>
+                    <p className="text-xs text-gray-600 text-right">— 2 Corinthians 5:10 (KJV)</p>
+                  </div>
+                  <p className="text-sm text-gray-700 mt-4">
+                    <strong>Key Point:</strong> Rewards are based on works. Valuable works receive rewards. Worthless works suffer loss. 
+                    But salvation is never lost.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {/* How to Build with Valuable Materials */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">How to Build with Gold, Silver, and Precious Stones</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              To build works that abide and receive rewards, we must build in the Spirit, for God's glory, with love. 
+              Here's what that looks like:
+            </p>
+
+            <div className="space-y-6">
+              {/* Building in the Spirit */}
+              <div className="bg-white border-2 border-indigo-200 rounded-lg p-6">
+                <h4 className="text-2xl font-bold text-gray-900 mb-4">Building in the Spirit</h4>
+                <div className="space-y-4">
+                  <div className="bg-gray-50 p-4 rounded">
+                    <p className="text-gray-800 mb-2">
+                      <strong>"If we live in the Spirit, let us also walk in the Spirit."</strong>
+                    </p>
+                    <p className="text-sm text-gray-600 text-right">— Galatians 5:25 (KJV)</p>
+                  </div>
+                  <div className="bg-gray-50 p-4 rounded">
+                    <p className="text-gray-800 mb-2">
+                      <strong>"For as many as are led by the Spirit of God, they are the sons of God."</strong>
+                    </p>
+                    <p className="text-sm text-gray-600 text-right">— Romans 8:14 (KJV)</p>
+                  </div>
+                  <div className="bg-gray-50 p-4 rounded">
+                    <p className="text-gray-800 mb-2">
+                      <strong>"This I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh."</strong>
+                    </p>
+                    <p className="text-sm text-gray-600 text-right">— Galatians 5:16 (KJV)</p>
+                  </div>
+                  <p className="text-lg text-gray-700 leading-relaxed">
+                    Works done in the Spirit are valuable. Works done in the flesh are worthless. Walk in the Spirit, 
+                    and your works will be gold, silver, and precious stones.
+                  </p>
+                </div>
+              </div>
+
+              {/* Building for God's Glory */}
+              <div className="bg-white border-2 border-blue-200 rounded-lg p-6">
+                <h4 className="text-2xl font-bold text-gray-900 mb-4">Building for God's Glory</h4>
+                <div className="space-y-4">
+                  <div className="bg-gray-50 p-4 rounded">
+                    <p className="text-gray-800 mb-2">
+                      <strong>"Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God."</strong>
+                    </p>
+                    <p className="text-sm text-gray-600 text-right">— 1 Corinthians 10:31 (KJV)</p>
+                  </div>
+                  <div className="bg-gray-50 p-4 rounded">
+                    <p className="text-gray-800 mb-2">
+                      <strong>"And whatsoever ye do, do it heartily, as to the Lord, and not unto men; Knowing that of the Lord ye shall receive the reward of the inheritance: for ye serve the Lord Christ."</strong>
+                    </p>
+                    <p className="text-sm text-gray-600 text-right">— Colossians 3:23-24 (KJV)</p>
+                  </div>
+                  <div className="bg-gray-50 p-4 rounded">
+                    <p className="text-gray-800 mb-2">
+                      <strong>"Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven."</strong>
+                    </p>
+                    <p className="text-sm text-gray-600 text-right">— Matthew 5:16 (KJV)</p>
+                  </div>
+                  <p className="text-lg text-gray-700 leading-relaxed">
+                    Works done for God's glory are valuable. Works done for self-glory are worthless. Do all to the glory of God.
+                  </p>
+                </div>
+              </div>
+
+              {/* Building with Love */}
+              <div className="bg-white border-2 border-pink-200 rounded-lg p-6">
+                <h4 className="text-2xl font-bold text-gray-900 mb-4">Building with Love</h4>
+                <div className="space-y-4">
+                  <div className="bg-gray-50 p-4 rounded">
+                    <p className="text-gray-800 mb-2">
+                      <strong>"And though I bestow all my goods to feed the poor, and though I give my body to be burned, and have not charity, it profiteth me nothing."</strong>
+                    </p>
+                    <p className="text-sm text-gray-600 text-right">— 1 Corinthians 13:3 (KJV)</p>
+                  </div>
+                  <div className="bg-gray-50 p-4 rounded">
+                    <p className="text-gray-800 mb-2">
+                      <strong>"For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love."</strong>
+                    </p>
+                    <p className="text-sm text-gray-600 text-right">— Galatians 5:6 (KJV)</p>
+                  </div>
+                  <div className="bg-gray-50 p-4 rounded">
+                    <p className="text-gray-800 mb-2">
+                      <strong>"And above all these things put on charity, which is the bond of perfectness."</strong>
+                    </p>
+                    <p className="text-sm text-gray-600 text-right">— Colossians 3:14 (KJV)</p>
+                  </div>
+                  <p className="text-lg text-gray-700 leading-relaxed">
+                    Works done with love are valuable. Works done without love are worthless. Love is the bond of perfectness.
+                  </p>
+                </div>
+              </div>
+
+              {/* Building Up the Body */}
+              <div className="bg-white border-2 border-green-200 rounded-lg p-6">
+                <h4 className="text-2xl font-bold text-gray-900 mb-4">Building Up the Body of Christ</h4>
+                <div className="space-y-4">
+                  <div className="bg-gray-50 p-4 rounded">
+                    <p className="text-gray-800 mb-2">
+                      <strong>"For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ."</strong>
+                    </p>
+                    <p className="text-sm text-gray-600 text-right">— Ephesians 4:12 (KJV)</p>
+                  </div>
+                  <div className="bg-gray-50 p-4 rounded">
+                    <p className="text-gray-800 mb-2">
+                      <strong>"Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers."</strong>
+                    </p>
+                    <p className="text-sm text-gray-600 text-right">— Ephesians 4:29 (KJV)</p>
+                  </div>
+                  <div className="bg-gray-50 p-4 rounded">
+                    <p className="text-gray-800 mb-2">
+                      <strong>"Even so ye, forasmuch as ye are zealous of spiritual gifts, seek that ye may excel to the edifying of the church."</strong>
+                    </p>
+                    <p className="text-sm text-gray-600 text-right">— 1 Corinthians 14:12 (KJV)</p>
+                  </div>
+                  <p className="text-lg text-gray-700 leading-relaxed">
+                    Works that build up the body of Christ are valuable. Works that tear down or serve self are worthless.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {/* Additional Supporting Verses */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Additional Supporting Verses</h3>
+            
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But let every man prove his own work, and then shall he have rejoicing in himself alone, and not in another."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Galatians 6:4 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For we are labourers together with God: ye are God's husbandry, ye are God's building."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:9 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But let every man take heed how he buildeth thereupon."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:10 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"According to the grace of God which is given unto me, as a wise masterbuilder, I have laid the foundation, and another buildeth thereon."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:10 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For other foundation can no man lay than that is laid, which is Jesus Christ."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:11 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Now if any man build upon this foundation gold, silver, precious stones, wood, hay, stubble."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:12 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Every man's work shall be made manifest: for the day shall declare it, because it shall be revealed by fire; and the fire shall try every man's work of what sort it is."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:13 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"If any man's work abide which he hath built thereupon, he shall receive a reward."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:14 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"If any man's work shall be burned, he shall suffer loss: but he himself shall be saved; yet so as by fire."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:15 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"So then every one of us shall give account of himself to God."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 14:12 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Ephesians 2:10 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"That ye might walk worthy of the Lord unto all pleasing, being fruitful in every good work, and increasing in the knowledge of God."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Colossians 1:10 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 15:58 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And let us not be weary in well doing: for in due season we shall reap, if we faint not."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Galatians 6:9 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And whatsoever ye do, do it heartily, as to the Lord, and not unto men; Knowing that of the Lord ye shall receive the reward of the inheritance: for ye serve the Lord Christ."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Colossians 3:23-24 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Application to Communication */}
+          <div className="bg-gradient-to-r from-amber-50 to-orange-50 rounded-xl p-8 mb-8 border-l-4 border-amber-500">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Application to Communication</h3>
+            <p className="text-lg text-gray-700 leading-relaxed mb-4">
+              Understanding the distinction between receiving rewards and suffering loss transforms how we communicate:
+            </p>
+            <ul className="space-y-3 text-gray-700">
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Security in Salvation:</strong> You're saved by grace, not by your communication skills. This eliminates fear and gives you freedom to speak boldly.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Motivation for Excellence:</strong> While salvation is secure, rewards are based on how you build. Build with valuable materials—speak in the Spirit, for God's glory, with love.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Building with Gold:</strong> Communication done in the Spirit, for God's glory, building up others—this is gold, silver, precious stones that will receive rewards.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Avoiding Wood, Hay, Stubble:</strong> Communication done in the flesh, for self-glory, tearing down others—this is wood, hay, stubble that will burn.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>The Foundation:</strong> All communication must be built on the foundation of Jesus Christ. No other foundation will stand.</span>
+              </li>
+            </ul>
+            <p className="text-lg text-gray-700 leading-relaxed mt-6">
+              Rightly dividing means understanding that salvation is by grace (secure), but rewards are by works (earned). 
+              Build your communication on the foundation of Christ, in the Spirit, for God's glory, with love. This is how you 
+              build works that abide and receive rewards.
+            </p>
+          </div>
+        </section>
+
         {/* Conclusion */}
         <section className="bg-gradient-to-r from-indigo-600 to-pink-600 rounded-xl shadow-lg p-8 text-white">
           <h2 className="text-3xl font-bold mb-6">Conclusion: Rightly Dividing for Clear Communication</h2>
@@ -1598,12 +2264,17 @@ export default function AppendixPage() {
             <li>This gospel saves by faith alone—nothing added, nothing taken away</li>
             <li>We stand in this gospel, secure and sealed by the Holy Spirit</li>
             <li>Beware of any gospel that adds requirements to the simple message of grace</li>
+            <li>Salvation is by grace (secure), but rewards are by works (earned) - 1 Corinthians 3:10-15</li>
+            <li>Build with gold, silver, precious stones (valuable works) to receive rewards</li>
+            <li>Avoid wood, hay, stubble (worthless works) that will burn and cause loss</li>
+            <li>Even if all works burn, the believer is still saved - salvation is never lost</li>
           </ul>
           <p className="text-lg leading-relaxed">
             When you understand these distinctions, you speak with authority that comes from knowing truth itself. You're not seeking approval 
             through performance; you're speaking from a place of being already approved by God's grace. You're not stuck in the basics; 
             you're pressing toward maturity and perfection. You're not trying to earn salvation; you're declaring the simple gospel that saves. 
-            This is the foundation of eloquent, confident communication.
+            You're building with valuable materials—in the Spirit, for God's glory, with love—knowing that while salvation is secure, 
+            rewards are earned. This is the foundation of eloquent, confident communication.
           </p>
           <div className="mt-6 p-4 bg-white bg-opacity-20 rounded-lg backdrop-blur-sm">
             <p className="text-xl italic mb-2">
