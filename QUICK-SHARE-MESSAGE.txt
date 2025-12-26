@@ -1,0 +1,12 @@
+Hi! I built a new web app - "Leadership Communication Mastery" for startup founders. Would love your quick feedback on design/UX.
+
+🔗 Check it out: http://localhost:3000
+
+What to test:
+- Sidebar navigation (try mobile menu)
+- Case studies section  
+- All 5 lesson pages
+- Mobile responsiveness
+
+Any thoughts on improvements? Thanks!
+
