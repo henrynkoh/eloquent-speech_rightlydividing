@@ -3879,6 +3879,483 @@ export default function AppendixPage() {
           </div>
         </section>
 
+        {/* Traditions of Men vs. Word of God */}
+        <section className="bg-white rounded-xl shadow-lg p-8 mb-8">
+          <h2 className="text-4xl font-bold text-gray-900 mb-6 text-center">
+            <span className="bg-gradient-to-r from-indigo-600 to-pink-600 bg-clip-text text-transparent">
+              Vain Worship: Traditions of Men vs. Word of God (Matthew 15:3, 9)
+            </span>
+          </h2>
+          
+          <div className="bg-gradient-to-r from-red-50 to-orange-50 border-l-4 border-red-500 p-6 mb-8 rounded">
+            <p className="text-2xl font-semibold text-gray-900 mb-4">
+              "But he answered and said unto them, Why do ye also transgress the commandment of God by your tradition?"
+            </p>
+            <p className="text-right text-gray-600 text-lg mb-4">— Matthew 15:3 (KJV)</p>
+            <p className="text-2xl font-semibold text-gray-900 mb-4">
+              "But in vain they do worship me, teaching for doctrines the commandments of men."
+            </p>
+            <p className="text-right text-gray-600 text-lg">— Matthew 15:9 (KJV)</p>
+          </div>
+
+          <p className="text-lg text-gray-700 leading-relaxed mb-8">
+            Jesus exposed the ultimate religious folly: putting the traditions of men—the commandments of elders—above the Word of God. 
+            This is vain worship. It is teaching human traditions as if they were God's doctrines. It is transgressing God's commandments 
+            to keep human traditions. This is the height of religious hypocrisy and the root of all man-made religion.
+          </p>
+
+          {/* Transgressing God's Commandment by Tradition */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Transgressing God's Commandment by Tradition</h3>
+            
+            <div className="bg-indigo-50 border-l-4 border-indigo-500 p-6 mb-6 rounded">
+              <p className="text-xl font-semibold text-gray-900 mb-4">
+                "But he answered and said unto them, Why do ye also transgress the commandment of God by your tradition?"
+              </p>
+              <p className="text-right text-gray-600">— Matthew 15:3 (KJV)</p>
+            </div>
+
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              The religious leaders of Jesus' day were transgressing—violating, breaking—God's commandments in order to keep their 
+              own traditions. They elevated human traditions above divine commands. They made void the Word of God by their traditions.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But he answered and said unto them, Why do ye also transgress the commandment of God by your tradition?"</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 15:3 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For laying aside the commandment of God, ye hold the tradition of men, as the washing of pots and cups: and many other such like things ye do."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Mark 7:8 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And he said unto them, Full well ye reject the commandment of God, that ye may keep your own tradition."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Mark 7:9 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Making the word of God of none effect through your tradition, which ye have delivered: and many such like things do ye."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Mark 7:13 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Then came to Jesus scribes and Pharisees, which were of Jerusalem, saying, Why do thy disciples transgress the tradition of the elders? for they wash not their hands when they eat bread."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 15:1-2 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But he answered and said unto them, Why do ye also transgress the commandment of God by your tradition? For God commanded, saying, Honour thy father and mother: and, He that curseth father or mother, let him die the death."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 15:3-4 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Vain Worship: Teaching Commandments of Men */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Vain Worship: Teaching Commandments of Men</h3>
+            
+            <div className="bg-red-50 border-l-4 border-red-500 p-6 mb-6 rounded">
+              <p className="text-xl font-semibold text-gray-900 mb-4">
+                "But in vain they do worship me, teaching for doctrines the commandments of men."
+              </p>
+              <p className="text-right text-gray-600">— Matthew 15:9 (KJV)</p>
+            </div>
+
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              When human traditions are taught as if they were God's doctrines, worship becomes vain—empty, useless, worthless. 
+              It is not true worship. It is religious performance. It is honoring God with the lips while the heart is far from Him.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But in vain they do worship me, teaching for doctrines the commandments of men."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 15:9 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"This people draweth nigh unto me with their mouth, and honoureth me with their lips; but their heart is far from me."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 15:8 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Colossians 2:8 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Wherefore if ye be dead with Christ from the rudiments of the world, why, as though living in the world, are ye subject to ordinances, (Touch not; taste not; handle not; Which all are to perish with the using;) after the commandments and doctrines of men?"</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Colossians 2:20-22 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Forasmuch as ye know that ye were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Peter 1:18 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For the time will come when they will not endure sound doctrine; but after their own lusts shall they heap to themselves teachers, having itching ears; And they shall turn away their ears from the truth, and shall be turned unto fables."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Timothy 4:3-4 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Making the Word of God of None Effect */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Making the Word of God of None Effect</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              Human traditions make void—nullify, cancel—the Word of God. They set aside God's commandments to keep human rules. 
+              They reject God's Word to maintain man-made religion. This is the ultimate religious folly.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Making the word of God of none effect through your tradition, which ye have delivered: and many such like things do ye."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Mark 7:13 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For laying aside the commandment of God, ye hold the tradition of men, as the washing of pots and cups: and many other such like things ye do."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Mark 7:8 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And he said unto them, Full well ye reject the commandment of God, that ye may keep your own tradition."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Mark 7:9 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But he answered and said unto them, Why do ye also transgress the commandment of God by your tradition?"</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 15:3 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Timothy 3:16 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Hebrews 4:12 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* The Heart Far from God */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">The Heart Far from God</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              Vain worship is external—honoring God with the lips while the heart is far from Him. It is religious performance 
+              without true relationship. It is following traditions while ignoring the heart condition.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"This people draweth nigh unto me with their mouth, and honoureth me with their lips; but their heart is far from me."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 15:8 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But in vain they do worship me, teaching for doctrines the commandments of men."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 15:9 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For the LORD seeth not as man seeth; for man looketh on the outward appearance, but the LORD looketh on the heart."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Samuel 16:7 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Keep thy heart with all diligence; for out of it are the issues of life."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Proverbs 4:23 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth: for the Father seeketh such to worship him."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— John 4:23 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"God is a Spirit: and they that worship him must worship him in spirit and in truth."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— John 4:24 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Traditions of the Elders */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Traditions of the Elders</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              The traditions of the elders—the commandments of men passed down through generations—became more important than 
+              the Word of God. These human rules replaced divine commands. This is the essence of man-made religion.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Then came to Jesus scribes and Pharisees, which were of Jerusalem, saying, Why do thy disciples transgress the tradition of the elders? for they wash not their hands when they eat bread."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 15:1-2 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But he answered and said unto them, Why do ye also transgress the commandment of God by your tradition?"</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 15:3 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For laying aside the commandment of God, ye hold the tradition of men, as the washing of pots and cups: and many other such like things ye do."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Mark 7:8 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And he said unto them, Full well ye reject the commandment of God, that ye may keep your own tradition."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Mark 7:9 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Colossians 2:8 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Wherefore if ye be dead with Christ from the rudiments of the world, why, as though living in the world, are ye subject to ordinances, (Touch not; taste not; handle not; Which all are to perish with the using;) after the commandments and doctrines of men?"</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Colossians 2:20-22 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* True Worship vs. Vain Worship */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">True Worship vs. Vain Worship</h3>
+            
+            <div className="grid md:grid-cols-2 gap-6 mb-8">
+              {/* Vain Worship */}
+              <div className="bg-gradient-to-br from-red-50 to-orange-50 rounded-lg p-6 border-l-4 border-red-500">
+                <h4 className="text-2xl font-bold text-gray-900 mb-4">Vain Worship</h4>
+                <div className="space-y-3">
+                  <div className="bg-white p-3 rounded">
+                    <p className="text-gray-800 mb-1">
+                      <strong>"But in vain they do worship me, teaching for doctrines the commandments of men."</strong>
+                    </p>
+                    <p className="text-xs text-gray-600 text-right">— Matthew 15:9 (KJV)</p>
+                  </div>
+                  <div className="bg-white p-3 rounded">
+                    <p className="text-gray-800 mb-1">
+                      <strong>"This people draweth nigh unto me with their mouth, and honoureth me with their lips; but their heart is far from me."</strong>
+                    </p>
+                    <p className="text-xs text-gray-600 text-right">— Matthew 15:8 (KJV)</p>
+                  </div>
+                  <p className="text-sm text-gray-700 mt-4">
+                    <strong>Characteristics:</strong> External, religious performance, following traditions, heart far from God, 
+                    teaching commandments of men as doctrines.
+                  </p>
+                </div>
+              </div>
+
+              {/* True Worship */}
+              <div className="bg-gradient-to-br from-green-50 to-emerald-50 rounded-lg p-6 border-l-4 border-green-500">
+                <h4 className="text-2xl font-bold text-gray-900 mb-4">True Worship</h4>
+                <div className="space-y-3">
+                  <div className="bg-white p-3 rounded">
+                    <p className="text-gray-800 mb-1">
+                      <strong>"But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth: for the Father seeketh such to worship him."</strong>
+                    </p>
+                    <p className="text-xs text-gray-600 text-right">— John 4:23 (KJV)</p>
+                  </div>
+                  <div className="bg-white p-3 rounded">
+                    <p className="text-gray-800 mb-1">
+                      <strong>"God is a Spirit: and they that worship him must worship him in spirit and in truth."</strong>
+                    </p>
+                    <p className="text-xs text-gray-600 text-right">— John 4:24 (KJV)</p>
+                  </div>
+                  <p className="text-sm text-gray-700 mt-4">
+                    <strong>Characteristics:</strong> In spirit and truth, from the heart, following God's Word, 
+                    not man's traditions, true relationship with God.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {/* Additional Supporting Verses */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Additional Supporting Verses</h3>
+            
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But he answered and said unto them, Why do ye also transgress the commandment of God by your tradition?"</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 15:3 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But in vain they do worship me, teaching for doctrines the commandments of men."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 15:9 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For laying aside the commandment of God, ye hold the tradition of men, as the washing of pots and cups: and many other such like things ye do."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Mark 7:8 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And he said unto them, Full well ye reject the commandment of God, that ye may keep your own tradition."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Mark 7:9 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Making the word of God of none effect through your tradition, which ye have delivered: and many such like things do ye."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Mark 7:13 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"This people draweth nigh unto me with their mouth, and honoureth me with their lips; but their heart is far from me."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 15:8 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Colossians 2:8 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth: for the Father seeketh such to worship him."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— John 4:23 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"God is a Spirit: and they that worship him must worship him in spirit and in truth."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— John 4:24 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Timothy 3:16 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Application to Communication */}
+          <div className="bg-gradient-to-r from-amber-50 to-orange-50 rounded-xl p-8 mb-8 border-l-4 border-amber-500">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Application to Communication</h3>
+            <p className="text-lg text-gray-700 leading-relaxed mb-4">
+              Understanding the folly of putting traditions of men above the Word of God transforms how we communicate:
+            </p>
+            <ul className="space-y-3 text-gray-700">
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Word of God First:</strong> Always prioritize God's Word over human traditions. The Word of God is the final authority, not the traditions of men.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Expose Vain Worship:</strong> Clearly show the folly of teaching human traditions as if they were God's doctrines. This is vain worship.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Heart Condition:</strong> Emphasize that God looks on the heart, not just external religious performance. True worship is in spirit and truth.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Making Void God's Word:</strong> Show how human traditions make void the Word of God. They set aside God's commands to keep human rules.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>True Worship:</strong> Point people to true worship—in spirit and truth, from the heart, following God's Word, not man's traditions.</span>
+              </li>
+            </ul>
+            <p className="text-lg text-gray-700 leading-relaxed mt-6">
+              Rightly dividing means understanding the ultimate religious folly: putting the traditions of men—the commandments 
+              of elders—above the Word of God. This is vain worship. It is transgressing God's commandments to keep human traditions. 
+              It is teaching human rules as if they were God's doctrines. True worship is in spirit and truth, from the heart, 
+              following God's Word, not man's traditions. Speak this truth clearly, exposing the folly of man-made religion and 
+              pointing people to true worship of the one true God.
+            </p>
+          </div>
+        </section>
+
         {/* Conclusion */}
         <section className="bg-gradient-to-r from-indigo-600 to-pink-600 rounded-xl shadow-lg p-8 text-white">
           <h2 className="text-3xl font-bold mb-6">Conclusion: Rightly Dividing for Clear Communication</h2>
@@ -3917,6 +4394,10 @@ export default function AppendixPage() {
             <li>They worshipped and served the creature more than the Creator, who is blessed forever (Romans 1:25)</li>
             <li>This is the ultimate folly - the great exchange of truth for a lie</li>
             <li>Modern idolatry includes worshipping money, success, self, or any created thing more than the Creator</li>
+            <li>Putting traditions of men above the Word of God is vain worship (Matthew 15:3, 9)</li>
+            <li>Teaching commandments of men as doctrines makes worship vain and worthless</li>
+            <li>Human traditions make void the Word of God and transgress God's commandments</li>
+            <li>True worship is in spirit and truth, from the heart, following God's Word</li>
           </ul>
           <p className="text-lg leading-relaxed">
             When you understand these distinctions, you speak with authority that comes from knowing truth itself. You're not seeking approval 
@@ -3928,7 +4409,9 @@ export default function AppendixPage() {
             understood by the things that are made. The fool says there is no God, but they are without excuse. Creation itself testifies 
             to the Creator. You understand the ultimate folly: worshipping and serving the creature more than the Creator. This is the great 
             exchange—the truth of God for a lie, the glory of the incorruptible God for images of corruptible creatures. The Creator is blessed 
-            forever. He alone is worthy of worship. This is the foundation of eloquent, confident communication.
+            forever. He alone is worthy of worship. You understand the ultimate religious folly: putting the traditions of men—the commandments 
+            of elders—above the Word of God. This is vain worship. It is transgressing God's commandments to keep human traditions. True worship 
+            is in spirit and truth, from the heart, following God's Word, not man's traditions. This is the foundation of eloquent, confident communication.
           </p>
           <div className="mt-6 p-4 bg-white bg-opacity-20 rounded-lg backdrop-blur-sm">
             <p className="text-xl italic mb-2">
