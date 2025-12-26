@@ -2877,6 +2877,543 @@ export default function AppendixPage() {
           </div>
         </section>
 
+        {/* The Existence of the Creator God */}
+        <section className="bg-white rounded-xl shadow-lg p-8 mb-8">
+          <h2 className="text-4xl font-bold text-gray-900 mb-6 text-center">
+            <span className="bg-gradient-to-r from-indigo-600 to-pink-600 bg-clip-text text-transparent">
+              The Existence of the Creator God: Revealed in Creation (Romans 1:19-20)
+            </span>
+          </h2>
+          
+          <div className="bg-gradient-to-r from-blue-50 to-indigo-50 border-l-4 border-blue-500 p-6 mb-8 rounded">
+            <p className="text-2xl font-semibold text-gray-900 mb-4">
+              "Because that which may be known of God is manifest in them; for God hath shewed it unto them. For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse."
+            </p>
+            <p className="text-right text-gray-600 text-lg">— Romans 1:19-20 (KJV)</p>
+          </div>
+
+          <p className="text-lg text-gray-700 leading-relaxed mb-8">
+            The existence of the Creator God is not a matter of faith alone—it is manifest, clearly seen, understood through creation itself. 
+            God has shown Himself to all people through what He has made. His eternal power and Godhead are visible in creation. 
+            Those who deny God's existence are without excuse. The fool says in his heart, "There is no God."
+          </p>
+
+          {/* God's Existence Manifest in Creation */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">God's Existence Manifest in Creation</h3>
+            
+            <div className="bg-green-50 border-l-4 border-green-500 p-6 mb-6 rounded">
+              <p className="text-xl font-semibold text-gray-900 mb-4">
+                "Because that which may be known of God is manifest in them; for God hath shewed it unto them."
+              </p>
+              <p className="text-right text-gray-600">— Romans 1:19 (KJV)</p>
+            </div>
+
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              God has not hidden Himself. What can be known about God is manifest—clearly visible, obvious, evident. 
+              God has shown it to all people. This knowledge is not hidden in a book or revealed only to a select few. 
+              It is manifest in creation itself, available to all who have eyes to see.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Because that which may be known of God is manifest in them; for God hath shewed it unto them."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:19 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:20 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"The heavens declare the glory of God; and the firmament sheweth his handywork."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Psalm 19:1 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Day unto day uttereth speech, and night unto night sheweth knowledge. There is no speech nor language, where their voice is not heard."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Psalm 19:2-3 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Their line is gone out through all the earth, and their words to the end of the world. In them hath he set a tabernacle for the sun."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Psalm 19:4 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Lift up your eyes on high, and behold who hath created these things, that bringeth out their host by number: he calleth them all by names by the greatness of his might, for that he is strong in power; not one faileth."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Isaiah 40:26 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Clearly Seen and Understood */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Clearly Seen and Understood</h3>
+            
+            <div className="bg-indigo-50 border-l-4 border-indigo-500 p-6 mb-6 rounded">
+              <p className="text-xl font-semibold text-gray-900 mb-4">
+                "For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead."
+              </p>
+              <p className="text-right text-gray-600">— Romans 1:20 (KJV)</p>
+            </div>
+
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              The invisible things of God—His eternal power and Godhead—are clearly seen. They are understood by the things that are made. 
+              Creation itself testifies to the Creator. The complexity, order, design, and beauty of creation point unmistakably to an 
+              intelligent, powerful, eternal Creator.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:20 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For since the creation of the world his invisible things are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:20 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained; What is man, that thou art mindful of him? and the son of man, that thou visitest him?"</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Psalm 8:3-4 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"O LORD, how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Psalm 104:24 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Psalm 139:14 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For every house is builded by some man; but he that built all things is God."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Hebrews 3:4 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* The Fool Says There Is No God */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">The Fool Says There Is No God</h3>
+            
+            <div className="bg-red-50 border-l-4 border-red-500 p-6 mb-6 rounded">
+              <p className="text-xl font-semibold text-gray-900 mb-4">
+                "The fool hath said in his heart, There is no God."
+              </p>
+              <p className="text-right text-gray-600">— Psalm 14:1, Psalm 53:1 (KJV)</p>
+            </div>
+
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              The Bible is clear: those who say there is no God are fools. This is not a matter of opinion or debate. 
+              It is a statement of fact. The evidence of God's existence is so clear, so manifest, so obvious, that 
+              only a fool would deny it. They are without excuse.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works, there is none that doeth good."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Psalm 14:1 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"The fool hath said in his heart, There is no God. Corrupt are they, and have done abominable iniquity: there is none that doeth good."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Psalm 53:1 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:20 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Because that, when they knew God, they glorified him not as God, neither were thankful; but became vain in their imaginations, and their foolish heart was darkened."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:21 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Professing themselves to be wise, they became fools."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:22 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For the wisdom of this world is foolishness with God. For it is written, He taketh the wise in their own craftiness."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:19 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Let no man deceive himself. If any man among you seemeth to be wise in this world, let him become a fool, that he may be wise."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:18 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Without Excuse */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Without Excuse</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              The evidence of God's existence is so clear that those who deny it are without excuse. God has made Himself known 
+              through creation. His eternal power and Godhead are clearly seen. There is no valid excuse for unbelief.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:20 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Because that which may be known of God is manifest in them; for God hath shewed it unto them."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:19 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"The heavens declare the glory of God; and the firmament sheweth his handywork."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Psalm 19:1 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who hold the truth in unrighteousness."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:18 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* God's Eternal Power and Godhead */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">God's Eternal Power and Godhead</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              Creation reveals God's eternal power and Godhead. His power is seen in the vastness of the universe, the complexity 
+              of life, the precision of natural laws. His Godhead—His divine nature—is seen in the order, design, and purpose evident 
+              throughout creation.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:20 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"In the beginning God created the heaven and the earth."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Genesis 1:1 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Hebrews 11:3 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Colossians 1:16 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"All things were made by him; and without him was not any thing made that was made."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— John 1:3 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 4:11 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Hast thou not known? hast thou not heard, that the everlasting God, the LORD, the Creator of the ends of the earth, fainteth not, neither is weary? there is no searching of his understanding."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Isaiah 40:28 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* The Creator's Testimony in Creation */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">The Creator's Testimony in Creation</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              Every aspect of creation testifies to the Creator. From the vastness of space to the complexity of a single cell, 
+              from the precision of natural laws to the beauty of a sunset, creation speaks clearly of its Creator.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"The heavens declare the glory of God; and the firmament sheweth his handywork. Day unto day uttereth speech, and night unto night sheweth knowledge."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Psalm 19:1-2 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"O LORD, how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Psalm 104:24 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Psalm 139:14 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained; What is man, that thou art mindful of him? and the son of man, that thou visitest him?"</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Psalm 8:3-4 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Lift up your eyes on high, and behold who hath created these things, that bringeth out their host by number: he calleth them all by names by the greatness of his might, for that he is strong in power; not one faileth."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Isaiah 40:26 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For every house is builded by some man; but he that built all things is God."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Hebrews 3:4 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* The Fool's Heart Darkened */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">The Fool's Heart Darkened</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              Those who deny God's existence do so not because of lack of evidence, but because their hearts are darkened. 
+              They suppress the truth. They exchange the truth of God for a lie. They profess to be wise, but become fools.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Because that, when they knew God, they glorified him not as God, neither were thankful; but became vain in their imaginations, and their foolish heart was darkened."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:21 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Professing themselves to be wise, they became fools."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:22 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who hold the truth in unrighteousness."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:18 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Who changed the truth of God into a lie, and worshipped and served the creature more than the Creator, who is blessed for ever. Amen."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:25 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works, there is none that doeth good."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Psalm 14:1 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"The fool hath said in his heart, There is no God. Corrupt are they, and have done abominable iniquity: there is none that doeth good."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Psalm 53:1 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Additional Supporting Verses */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Additional Supporting Verses</h3>
+            
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"In the beginning was the Word, and the Word was with God, and the Word was God. The same was in the beginning with God. All things were made by him; and without him was not any thing made that was made."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— John 1:1-3 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him: And he is before all things, and by him all things consist."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Colossians 1:16-17 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Hebrews 11:3 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 4:11 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Hast thou not known? hast thou not heard, that the everlasting God, the LORD, the Creator of the ends of the earth, fainteth not, neither is weary? there is no searching of his understanding."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Isaiah 40:28 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For the LORD is the true God, he is the living God, and an everlasting king: at his wrath the earth shall tremble, and the nations shall not be able to abide his indignation."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Jeremiah 10:10 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But the LORD is the true God, he is the living God, and an everlasting king: at his wrath the earth shall tremble, and the nations shall not be able to abide his indignation."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Jeremiah 10:10 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:20 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works, there is none that doeth good."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Psalm 14:1 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"The fool hath said in his heart, There is no God. Corrupt are they, and have done abominable iniquity: there is none that doeth good."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Psalm 53:1 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Application to Communication */}
+          <div className="bg-gradient-to-r from-amber-50 to-orange-50 rounded-xl p-8 mb-8 border-l-4 border-amber-500">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Application to Communication</h3>
+            <p className="text-lg text-gray-700 leading-relaxed mb-4">
+              Understanding the existence of the Creator God transforms how we communicate:
+            </p>
+            <ul className="space-y-3 text-gray-700">
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Confidence in Truth:</strong> God's existence is not a matter of opinion—it is manifest, clearly seen, understood through creation. Speak with confidence in this truth.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Evidence Everywhere:</strong> Creation itself testifies to the Creator. Use the evidence of creation to point people to God.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>No Excuse:</strong> Those who deny God are without excuse. The evidence is clear. Speak boldly, knowing that unbelief is not due to lack of evidence, but to darkened hearts.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>The Fool's Denial:</strong> The fool says in his heart, "There is no God." This is not wisdom—it is foolishness. Speak the truth clearly, even when it is rejected.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>God's Eternal Power:</strong> Creation reveals God's eternal power and Godhead. Speak of God's power and majesty as revealed in creation.</span>
+              </li>
+            </ul>
+            <p className="text-lg text-gray-700 leading-relaxed mt-6">
+              Rightly dividing means understanding that God's existence is manifest in creation. It is clearly seen, understood 
+              by the things that are made. Those who deny God are without excuse. The fool says in his heart, "There is no God." 
+              But creation itself testifies to the Creator. Speak this truth with confidence and clarity.
+            </p>
+          </div>
+        </section>
+
         {/* Conclusion */}
         <section className="bg-gradient-to-r from-indigo-600 to-pink-600 rounded-xl shadow-lg p-8 text-white">
           <h2 className="text-3xl font-bold mb-6">Conclusion: Rightly Dividing for Clear Communication</h2>
@@ -2907,6 +3444,10 @@ export default function AppendixPage() {
             <li>The foundation is Jesus Christ and the grace gospel - secure and unshakeable</li>
             <li>Each person must take heed how they build upon this foundation</li>
             <li>Build wisely with valuable materials to receive rewards</li>
+            <li>God's existence is manifest in creation - clearly seen, understood by the things that are made (Romans 1:19-20)</li>
+            <li>The fool says in his heart, "There is no God" - but they are without excuse (Psalm 14:1, 53:1)</li>
+            <li>Creation reveals God's eternal power and Godhead - evidence is everywhere</li>
+            <li>Those who deny God suppress the truth and their hearts are darkened</li>
           </ul>
           <p className="text-lg leading-relaxed">
             When you understand these distinctions, you speak with authority that comes from knowing truth itself. You're not seeking approval 
@@ -2914,7 +3455,9 @@ export default function AppendixPage() {
             you're pressing toward maturity and perfection. You're not trying to earn salvation; you're declaring the simple gospel that saves. 
             You're building with valuable materials—in the Spirit, for God's glory, with love—knowing that while salvation is secure, 
             rewards are earned. You stand on the foundation Paul laid as the wise masterbuilder—Jesus Christ and the grace gospel. 
-            This foundation is secure. Build wisely upon it. This is the foundation of eloquent, confident communication.
+            This foundation is secure. Build wisely upon it. You know that God's existence is manifest in creation—clearly seen, 
+            understood by the things that are made. The fool says there is no God, but they are without excuse. Creation itself testifies 
+            to the Creator. This is the foundation of eloquent, confident communication.
           </p>
           <div className="mt-6 p-4 bg-white bg-opacity-20 rounded-lg backdrop-blur-sm">
             <p className="text-xl italic mb-2">
