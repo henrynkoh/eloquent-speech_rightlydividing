@@ -92,6 +92,16 @@ export default function Sidebar() {
               <h3 className="text-xs uppercase tracking-wider text-indigo-300 mb-3 px-4">Resources</h3>
               <ul className="space-y-2">
                 <li>
+                  <Link
+                    href="/appendix"
+                    onClick={() => setIsOpen(false)}
+                    className="flex items-center px-4 py-2 rounded-lg hover:bg-white hover:bg-opacity-10 transition-all"
+                  >
+                    <span className="mr-3">📖</span>
+                    <span className="text-sm">Rightly Dividing Appendix</span>
+                  </Link>
+                </li>
+                <li>
                   <a
                     href="https://github.com/henrynkoh/eloquent-speech_rightlydividing"
                     target="_blank"

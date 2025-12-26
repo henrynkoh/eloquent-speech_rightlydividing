@@ -41,6 +41,11 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
+                <Link href="/appendix" className="text-gray-400 hover:text-white transition-colors">
+                  Rightly Dividing Appendix
+                </Link>
+              </li>
+              <li>
                 <a
                   href="https://github.com/henrynkoh/eloquent-speech_rightlydividing"
                   target="_blank"
@@ -86,6 +91,11 @@ export default function Footer() {
                 >
                   Quick Start Guide
                 </a>
+              </li>
+              <li>
+                <Link href="/appendix" className="text-gray-400 hover:text-white transition-colors">
+                  Kingdom vs. Grace Gospel
+                </Link>
               </li>
             </ul>
           </div>
