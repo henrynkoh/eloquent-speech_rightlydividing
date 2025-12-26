@@ -2242,6 +2242,641 @@ export default function AppendixPage() {
           </div>
         </section>
 
+        {/* Wise Masterbuilder and the Foundation */}
+        <section className="bg-white rounded-xl shadow-lg p-8 mb-8">
+          <h2 className="text-4xl font-bold text-gray-900 mb-6 text-center">
+            <span className="bg-gradient-to-r from-indigo-600 to-pink-600 bg-clip-text text-transparent">
+              Paul as a Wise Masterbuilder: Laying the Foundation (1 Corinthians 3:10)
+            </span>
+          </h2>
+          
+          <div className="bg-gradient-to-r from-blue-50 to-indigo-50 border-l-4 border-blue-500 p-6 mb-8 rounded">
+            <p className="text-2xl font-semibold text-gray-900 mb-4">
+              "According to the grace of God which is given unto me, as a wise masterbuilder, I have laid the foundation, and another buildeth thereon. But let every man take heed how he buildeth thereupon."
+            </p>
+            <p className="text-right text-gray-600 text-lg">— 1 Corinthians 3:10 (KJV)</p>
+          </div>
+
+          <p className="text-lg text-gray-700 leading-relaxed mb-8">
+            Paul describes himself as a wise masterbuilder—an architect, a chief builder—who laid the foundation. 
+            This foundation is the grace gospel, the message of Christ's death, burial, and resurrection. Others build upon this foundation, 
+            but each must take heed how they build. Understanding Paul's role as the masterbuilder and the foundation he laid is essential 
+            for rightly dividing the word of truth.
+          </p>
+
+          {/* Paul as Wise Masterbuilder */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Paul: The Wise Masterbuilder</h3>
+            
+            <div className="bg-indigo-50 border-l-4 border-indigo-500 p-6 mb-6 rounded">
+              <p className="text-xl font-semibold text-gray-900 mb-4">
+                "According to the grace of God which is given unto me, as a wise masterbuilder, I have laid the foundation."
+              </p>
+              <p className="text-right text-gray-600">— 1 Corinthians 3:10 (KJV)</p>
+            </div>
+
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              Paul was not just a preacher or teacher. He was the wise masterbuilder—the architect, the chief builder—who laid 
+              the foundation for the Body of Christ. This was not his own doing; it was according to the grace of God given to him. 
+              He received this by revelation from the risen, glorified Lord Jesus Christ.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"According to the grace of God which is given unto me, as a wise masterbuilder, I have laid the foundation, and another buildeth thereon."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:10 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But I certify you, brethren, that the gospel which was preached of me is not after man. For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Galatians 1:11-12 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"How that by revelation he made known unto me the mystery; (as I wrote afore in few words, Whereby, when ye read, ye may understand my knowledge in the mystery of Christ) Which in other ages was not made known unto the sons of men, as it is now revealed unto his holy apostles and prophets by the Spirit."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Ephesians 3:3-5 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For I speak to you Gentiles, inasmuch as I am the apostle of the Gentiles, I magnify mine office."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 11:13 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Whereof I am made a minister, according to the dispensation of God which is given to me for you, to fulfil the word of God."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Colossians 1:25 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For this cause I Paul, the prisoner of Jesus Christ for you Gentiles, If ye have heard of the dispensation of the grace of God which is given me to you-ward."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Ephesians 3:1-2 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Ephesians 3:8 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* The Foundation: Jesus Christ */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">The Foundation: Jesus Christ</h3>
+            
+            <div className="bg-green-50 border-l-4 border-green-500 p-6 mb-6 rounded">
+              <p className="text-xl font-semibold text-gray-900 mb-4">
+                "For other foundation can no man lay than that is laid, which is Jesus Christ."
+              </p>
+              <p className="text-right text-gray-600">— 1 Corinthians 3:11 (KJV)</p>
+            </div>
+
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              The foundation Paul laid is Jesus Christ. Not Jesus plus something. Not Jesus and the law. Not Jesus and water baptism. 
+              Just Jesus Christ. This foundation is laid by God, not by man. No one can lay a different foundation. All believers 
+              stand on this same foundation—the finished work of Christ.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For other foundation can no man lay than that is laid, which is Jesus Christ."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:11 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Therefore thus saith the Lord GOD, Behold, I lay in Zion for a foundation a stone, a tried stone, a precious corner stone, a sure foundation: he that believeth shall not make haste."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Isaiah 28:16 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Jesus saith unto them, Did ye never read in the scriptures, The stone which the builders rejected, the same is become the head of the corner: this is the Lord's doing, and it is marvellous in our eyes?"</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 21:42 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"To whom coming, as unto a living stone, disallowed indeed of men, but chosen of God, and precious, Ye also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Peter 2:4-5 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Ephesians 2:20 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"In whom all the building fitly framed together groweth unto an holy temple in the Lord: In whom ye also are builded together for an habitation of God through the Spirit."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Ephesians 2:21-22 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"The stone which the builders refused is become the head stone of the corner."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Psalm 118:22 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And he shall be for a sanctuary; but for a stone of stumbling and for a rock of offence to both the houses of Israel, for a gin and for a snare to the inhabitants of Jerusalem."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Isaiah 8:14 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And a stone of stumbling, and a rock of offence, even to them which stumble at the word, being disobedient: whereunto also they were appointed."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Peter 2:8 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* The Foundation: The Grace Gospel */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">The Foundation: The Grace Gospel</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              The foundation Paul laid is not just the person of Christ, but the message about Christ—the grace gospel. 
+              This is the gospel of 1 Corinthians 15:1-4: Christ died for our sins, was buried, and rose again. This is the 
+              foundation upon which all believers stand.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-purple-50 border-l-4 border-purple-500 p-6 rounded-lg mb-4">
+                <p className="text-xl font-semibold text-gray-900 mb-4">
+                  "Moreover, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand."
+                </p>
+                <p className="text-right text-gray-600">— 1 Corinthians 15:1 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures; And that he was buried, and that he rose again the third day according to the scriptures."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 15:3-4 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But I certify you, brethren, that the gospel which was preached of me is not after man. For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Galatians 1:11-12 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Now to him that is of power to stablish you according to my gospel, and the preaching of Jesus Christ, according to the revelation of the mystery, which was kept secret since the world began."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 16:25 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:16 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Another Buildeth Thereon */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Another Buildeth Thereon: Building Upon the Foundation</h3>
+            
+            <div className="bg-blue-50 border-l-4 border-blue-500 p-6 mb-6 rounded">
+              <p className="text-xl font-semibold text-gray-900 mb-4">
+                "I have laid the foundation, and another buildeth thereon. But let every man take heed how he buildeth thereupon."
+              </p>
+              <p className="text-right text-gray-600">— 1 Corinthians 3:10 (KJV)</p>
+            </div>
+
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              Paul laid the foundation. Others build upon it. But each person must take heed—be careful—how they build. 
+              You can build with valuable materials (gold, silver, precious stones) or worthless materials (wood, hay, stubble). 
+              The foundation is secure, but how you build determines whether you receive rewards or suffer loss.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"I have laid the foundation, and another buildeth thereon. But let every man take heed how he buildeth thereupon."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:10 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Now if any man build upon this foundation gold, silver, precious stones, wood, hay, stubble; Every man's work shall be made manifest: for the day shall declare it, because it shall be revealed by fire; and the fire shall try every man's work of what sort it is."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:12-13 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"If any man's work abide which he hath built thereupon, he shall receive a reward. If any man's work shall be burned, he shall suffer loss: but he himself shall be saved; yet so as by fire."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:14-15 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For we are labourers together with God: ye are God's husbandry, ye are God's building."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:9 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But let every man prove his own work, and then shall he have rejoicing in himself alone, and not in another."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Galatians 6:4 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"So then every one of us shall give account of himself to God."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 14:12 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* According to the Grace of God */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">According to the Grace of God</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              Paul emphasizes that his role as masterbuilder was "according to the grace of God which is given unto me." 
+              This was not by his own wisdom, ability, or merit. It was by God's grace. This same grace is available to all 
+              who believe and build upon the foundation.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"According to the grace of God which is given unto me, as a wise masterbuilder, I have laid the foundation."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:10 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But by the grace of God I am what I am: and his grace which was bestowed upon me was not in vain; but I laboured more abundantly than they all: yet not I, but the grace of God which was with me."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 15:10 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Ephesians 3:8 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For the grace of God that bringeth salvation hath appeared to all men."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Titus 2:11 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Ephesians 2:8-9 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And of his fulness have all we received, and grace for grace."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— John 1:16 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* The Wise Masterbuilder: Wisdom from God */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">The Wise Masterbuilder: Wisdom from God</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              Paul was a "wise" masterbuilder. This wisdom did not come from human learning or philosophy. It came from God, 
+              through the revelation of the mystery. This is the wisdom that rightly divides the word of truth.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"According to the grace of God which is given unto me, as a wise masterbuilder, I have laid the foundation."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:10 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Howbeit we speak wisdom among them that are perfect: yet not the wisdom of this world, nor of the princes of this world, that come to nought: But we speak the wisdom of God in a mystery, even the hidden wisdom, which God ordained before the world unto our glory."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 2:6-7 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But God hath revealed them unto us by his Spirit: for the Spirit searcheth all things, yea, the deep things of God."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 2:10 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Now we have received, not the spirit of the world, but the spirit which is of God; that we might know the things that are freely given to us of God."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 2:12 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Which things also we speak, not in the words which man's wisdom teacheth, but which the Holy Ghost teacheth; comparing spiritual things with spiritual."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 2:13 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For the wisdom of this world is foolishness with God. For it is written, He taketh the wise in their own craftiness."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:19 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— James 1:5 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But the wisdom that is from above is first pure, then peaceable, gentle, and easy to be intreated, full of mercy and good fruits, without partiality, and without hypocrisy."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— James 3:17 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Building the Spiritual House */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Building the Spiritual House</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              The foundation Paul laid is the foundation for the spiritual house—the Body of Christ. All believers are being 
+              built together into this house, with Christ as the chief cornerstone.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For we are labourers together with God: ye are God's husbandry, ye are God's building."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:9 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone; In whom all the building fitly framed together groweth unto an holy temple in the Lord: In whom ye also are builded together for an habitation of God through the Spirit."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Ephesians 2:20-22 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"To whom coming, as unto a living stone, disallowed indeed of men, but chosen of God, and precious, Ye also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Peter 2:4-5 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But Christ as a son over his own house; whose house are we, if we hold fast the confidence and the rejoicing of the hope firm unto the end."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Hebrews 3:6 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But if I tarry long, that thou mayest know how thou oughtest to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Timothy 3:15 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Take Heed How Ye Build */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Take Heed: How You Build Matters</h3>
+            
+            <div className="bg-yellow-50 border-l-4 border-yellow-500 p-6 mb-6 rounded">
+              <p className="text-xl font-semibold text-gray-900 mb-4">
+                "But let every man take heed how he buildeth thereupon."
+              </p>
+              <p className="text-right text-gray-600">— 1 Corinthians 3:10 (KJV)</p>
+            </div>
+
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              The foundation is secure. But how you build matters. You can build with valuable materials that abide, or worthless 
+              materials that burn. Take heed—be careful, be wise, be intentional—how you build.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But let every man take heed how he buildeth thereupon."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:10 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"See then that ye walk circumspectly, not as fools, but as wise."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Ephesians 5:15 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 15:58 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And let us not be weary in well doing: for in due season we shall reap, if we faint not."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Galatians 6:9 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Ephesians 2:10 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"That ye might walk worthy of the Lord unto all pleasing, being fruitful in every good work, and increasing in the knowledge of God."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Colossians 1:10 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And whatsoever ye do, do it heartily, as to the Lord, and not unto men; Knowing that of the Lord ye shall receive the reward of the inheritance: for ye serve the Lord Christ."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Colossians 3:23-24 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Additional Supporting Verses */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Additional Supporting Verses</h3>
+            
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"According to the grace of God which is given unto me, as a wise masterbuilder, I have laid the foundation, and another buildeth thereon. But let every man take heed how he buildeth thereupon."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:10 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For other foundation can no man lay than that is laid, which is Jesus Christ."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:11 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Now if any man build upon this foundation gold, silver, precious stones, wood, hay, stubble."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:12 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Every man's work shall be made manifest: for the day shall declare it, because it shall be revealed by fire; and the fire shall try every man's work of what sort it is."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:13 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"If any man's work abide which he hath built thereupon, he shall receive a reward."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:14 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"If any man's work shall be burned, he shall suffer loss: but he himself shall be saved; yet so as by fire."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:15 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For we are labourers together with God: ye are God's husbandry, ye are God's building."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:9 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But let every man prove his own work, and then shall he have rejoicing in himself alone, and not in another."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Galatians 6:4 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"So then every one of us shall give account of himself to God."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 14:12 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For we must all appear before the judgment seat of Christ; that every one may receive the things done in his body, according to that he hath done, whether it be good or bad."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Corinthians 5:10 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Application to Communication */}
+          <div className="bg-gradient-to-r from-amber-50 to-orange-50 rounded-xl p-8 mb-8 border-l-4 border-amber-500">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Application to Communication</h3>
+            <p className="text-lg text-gray-700 leading-relaxed mb-4">
+              Understanding Paul as the wise masterbuilder and the foundation he laid transforms how we communicate:
+            </p>
+            <ul className="space-y-3 text-gray-700">
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>The Foundation is Secure:</strong> Your communication is built on the foundation of Jesus Christ and the grace gospel. This foundation cannot be shaken. You stand secure.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Build Wisely:</strong> Take heed how you build. Build with valuable materials—speak in the Spirit, for God's glory, with love. This is gold, silver, precious stones.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>According to Grace:</strong> Your ability to communicate effectively comes from God's grace, not your own ability. Rely on grace, not on self.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Wisdom from God:</strong> The wisdom to rightly divide and communicate clearly comes from God's Spirit, not human learning. Seek God's wisdom.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Building Together:</strong> You're not building alone. You're part of God's building, the Body of Christ. Build in a way that edifies the whole body.</span>
+              </li>
+            </ul>
+            <p className="text-lg text-gray-700 leading-relaxed mt-6">
+              Rightly dividing means understanding that Paul laid the foundation as the wise masterbuilder. The foundation is Jesus Christ 
+              and the grace gospel. You stand on this secure foundation. Now build wisely upon it—with valuable materials, in the Spirit, 
+              for God's glory, with love. This is how you build works that abide and receive rewards.
+            </p>
+          </div>
+        </section>
+
         {/* Conclusion */}
         <section className="bg-gradient-to-r from-indigo-600 to-pink-600 rounded-xl shadow-lg p-8 text-white">
           <h2 className="text-3xl font-bold mb-6">Conclusion: Rightly Dividing for Clear Communication</h2>
@@ -2268,13 +2903,18 @@ export default function AppendixPage() {
             <li>Build with gold, silver, precious stones (valuable works) to receive rewards</li>
             <li>Avoid wood, hay, stubble (worthless works) that will burn and cause loss</li>
             <li>Even if all works burn, the believer is still saved - salvation is never lost</li>
+            <li>Paul is the wise masterbuilder who laid the foundation (1 Corinthians 3:10)</li>
+            <li>The foundation is Jesus Christ and the grace gospel - secure and unshakeable</li>
+            <li>Each person must take heed how they build upon this foundation</li>
+            <li>Build wisely with valuable materials to receive rewards</li>
           </ul>
           <p className="text-lg leading-relaxed">
             When you understand these distinctions, you speak with authority that comes from knowing truth itself. You're not seeking approval 
             through performance; you're speaking from a place of being already approved by God's grace. You're not stuck in the basics; 
             you're pressing toward maturity and perfection. You're not trying to earn salvation; you're declaring the simple gospel that saves. 
             You're building with valuable materials—in the Spirit, for God's glory, with love—knowing that while salvation is secure, 
-            rewards are earned. This is the foundation of eloquent, confident communication.
+            rewards are earned. You stand on the foundation Paul laid as the wise masterbuilder—Jesus Christ and the grace gospel. 
+            This foundation is secure. Build wisely upon it. This is the foundation of eloquent, confident communication.
           </p>
           <div className="mt-6 p-4 bg-white bg-opacity-20 rounded-lg backdrop-blur-sm">
             <p className="text-xl italic mb-2">
