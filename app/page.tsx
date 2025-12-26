@@ -1,5 +1,6 @@
 import Hero from './components/Hero';
 import Features from './components/Features';
+import CaseStudies from './components/CaseStudies';
 import CurriculumShowcase from './components/CurriculumShowcase';
 import Testimonials from './components/Testimonials';
 import Footer from './components/Footer';
@@ -12,6 +13,7 @@ export default function Home() {
       <main className="lg:ml-80">
         <Hero />
         <Features />
+        <CaseStudies />
         <CurriculumShowcase />
         <Testimonials />
         <Footer />
