@@ -1093,6 +1093,489 @@ export default function AppendixPage() {
           </div>
         </section>
 
+        {/* Paul's Declaration of the Gospel */}
+        <section className="bg-white rounded-xl shadow-lg p-8 mb-8">
+          <h2 className="text-4xl font-bold text-gray-900 mb-6 text-center">
+            <span className="bg-gradient-to-r from-indigo-600 to-pink-600 bg-clip-text text-transparent">
+              Paul's Declaration: The Grace Gospel (1 Corinthians 15:1-4)
+            </span>
+          </h2>
+          
+          <div className="bg-gradient-to-r from-blue-50 to-indigo-50 border-l-4 border-blue-500 p-6 mb-8 rounded">
+            <p className="text-2xl font-semibold text-gray-900 mb-4">
+              "Moreover, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand; By which also ye are saved, if ye keep in memory what I preached unto you, unless ye have believed in vain. For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures; And that he was buried, and that he rose again the third day according to the scriptures."
+            </p>
+            <p className="text-right text-gray-600 text-lg">— 1 Corinthians 15:1-4 (KJV)</p>
+          </div>
+
+          <p className="text-lg text-gray-700 leading-relaxed mb-8">
+            This is the gospel Paul received by revelation from Jesus Christ. This is the gospel for today—the grace gospel 
+            that saves all who believe. It is simple, clear, and complete: Christ died for our sins, was buried, and rose again. 
+            Nothing more, nothing less. This is the foundation of our faith and the source of our confidence in communication.
+          </p>
+
+          {/* The Three Essential Facts */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">The Three Essential Facts of the Grace Gospel</h3>
+            
+            <div className="grid md:grid-cols-3 gap-6 mb-8">
+              {/* 1. Christ Died for Our Sins */}
+              <div className="bg-gradient-to-br from-red-50 to-pink-50 rounded-lg p-6 border-l-4 border-red-500">
+                <h4 className="text-2xl font-bold text-gray-900 mb-4">1. Christ Died for Our Sins</h4>
+                <div className="space-y-3">
+                  <div className="bg-white p-3 rounded">
+                    <p className="text-gray-800 mb-1">
+                      <strong>"For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures."</strong>
+                    </p>
+                    <p className="text-xs text-gray-600 text-right">— 1 Corinthians 15:3 (KJV)</p>
+                  </div>
+                  <div className="bg-white p-3 rounded">
+                    <p className="text-gray-800 mb-1">
+                      <strong>"But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us."</strong>
+                    </p>
+                    <p className="text-xs text-gray-600 text-right">— Romans 5:8 (KJV)</p>
+                  </div>
+                  <div className="bg-white p-3 rounded">
+                    <p className="text-gray-800 mb-1">
+                      <strong>"Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed."</strong>
+                    </p>
+                    <p className="text-xs text-gray-600 text-right">— 1 Peter 2:24 (KJV)</p>
+                  </div>
+                  <div className="bg-white p-3 rounded">
+                    <p className="text-gray-800 mb-1">
+                      <strong>"For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God."</strong>
+                    </p>
+                    <p className="text-xs text-gray-600 text-right">— 1 Peter 3:18 (KJV)</p>
+                  </div>
+                  <div className="bg-white p-3 rounded">
+                    <p className="text-gray-800 mb-1">
+                      <strong>"For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him."</strong>
+                    </p>
+                    <p className="text-xs text-gray-600 text-right">— 2 Corinthians 5:21 (KJV)</p>
+                  </div>
+                </div>
+              </div>
+
+              {/* 2. He Was Buried */}
+              <div className="bg-gradient-to-br from-gray-50 to-slate-50 rounded-lg p-6 border-l-4 border-gray-500">
+                <h4 className="text-2xl font-bold text-gray-900 mb-4">2. He Was Buried</h4>
+                <div className="space-y-3">
+                  <div className="bg-white p-3 rounded">
+                    <p className="text-gray-800 mb-1">
+                      <strong>"And that he was buried, and that he rose again the third day according to the scriptures."</strong>
+                    </p>
+                    <p className="text-xs text-gray-600 text-right">— 1 Corinthians 15:4 (KJV)</p>
+                  </div>
+                  <div className="bg-white p-3 rounded">
+                    <p className="text-gray-800 mb-1">
+                      <strong>"And he made his grave with the wicked, and with the rich in his death; because he had done no violence, neither was any deceit in his mouth."</strong>
+                    </p>
+                    <p className="text-xs text-gray-600 text-right">— Isaiah 53:9 (KJV)</p>
+                  </div>
+                  <div className="bg-white p-3 rounded">
+                    <p className="text-gray-800 mb-1">
+                      <strong>"And when Joseph had taken the body, he wrapped it in a clean linen cloth, And laid it in his own new tomb, which he had hewn out in the rock: and he rolled a great stone to the door of the sepulchre, and departed."</strong>
+                    </p>
+                    <p className="text-xs text-gray-600 text-right">— Matthew 27:59-60 (KJV)</p>
+                  </div>
+                  <div className="bg-white p-3 rounded">
+                    <p className="text-gray-800 mb-1">
+                      <strong>"He was taken from prison and from judgment: and who shall declare his generation? for he was cut off out of the land of the living: for the transgression of my people was he stricken."</strong>
+                    </p>
+                    <p className="text-xs text-gray-600 text-right">— Isaiah 53:8 (KJV)</p>
+                  </div>
+                </div>
+              </div>
+
+              {/* 3. He Rose Again */}
+              <div className="bg-gradient-to-br from-green-50 to-emerald-50 rounded-lg p-6 border-l-4 border-green-500">
+                <h4 className="text-2xl font-bold text-gray-900 mb-4">3. He Rose Again</h4>
+                <div className="space-y-3">
+                  <div className="bg-white p-3 rounded">
+                    <p className="text-gray-800 mb-1">
+                      <strong>"And that he was buried, and that he rose again the third day according to the scriptures."</strong>
+                    </p>
+                    <p className="text-xs text-gray-600 text-right">— 1 Corinthians 15:4 (KJV)</p>
+                  </div>
+                  <div className="bg-white p-3 rounded">
+                    <p className="text-gray-800 mb-1">
+                      <strong>"But now is Christ risen from the dead, and become the firstfruits of them that slept."</strong>
+                    </p>
+                    <p className="text-xs text-gray-600 text-right">— 1 Corinthians 15:20 (KJV)</p>
+                  </div>
+                  <div className="bg-white p-3 rounded">
+                    <p className="text-gray-800 mb-1">
+                      <strong>"And if Christ be not raised, your faith is vain; ye are yet in your sins."</strong>
+                    </p>
+                    <p className="text-xs text-gray-600 text-right">— 1 Corinthians 15:17 (KJV)</p>
+                  </div>
+                  <div className="bg-white p-3 rounded">
+                    <p className="text-gray-800 mb-1">
+                      <strong>"But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you."</strong>
+                    </p>
+                    <p className="text-xs text-gray-600 text-right">— Romans 8:11 (KJV)</p>
+                  </div>
+                  <div className="bg-white p-3 rounded">
+                    <p className="text-gray-800 mb-1">
+                      <strong>"Who was delivered for our offences, and was raised again for our justification."</strong>
+                    </p>
+                    <p className="text-xs text-gray-600 text-right">— Romans 4:25 (KJV)</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {/* The Gospel That Saves */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">The Gospel That Saves: By Which Ye Are Saved</h3>
+            
+            <div className="bg-blue-50 border-l-4 border-blue-500 p-6 mb-6 rounded">
+              <p className="text-xl font-semibold text-gray-900 mb-4">
+                "By which also ye are saved, if ye keep in memory what I preached unto you, unless ye have believed in vain."
+              </p>
+              <p className="text-right text-gray-600">— 1 Corinthians 15:2 (KJV)</p>
+            </div>
+
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              This gospel saves. Not by works, not by law-keeping, not by water baptism, not by speaking in tongues—but by believing 
+              this simple message: Christ died for our sins, was buried, and rose again. This is the power of God unto salvation.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:16 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Ephesians 2:8-9 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But to him that worketh not, but believeth on him that justifieth the ungodly, his faith is counted for righteousness."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 4:5 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 10:9 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For whosoever shall call upon the name of the Lord shall be saved."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 10:13 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Therefore we conclude that a man is justified by faith without the deeds of the law."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 3:28 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Received by Revelation */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Received by Revelation: Not from Man</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              Paul did not receive this gospel from the other apostles. He did not learn it in Jerusalem. He received it directly 
+              from the risen, glorified Lord Jesus Christ by revelation. This is the mystery that was kept secret since the world began.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-purple-50 border-l-4 border-purple-500 p-6 rounded-lg mb-4">
+                <p className="text-xl font-semibold text-gray-900 mb-4">
+                  "But I certify you, brethren, that the gospel which was preached of me is not after man. For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ."
+                </p>
+                <p className="text-right text-gray-600">— Galatians 1:11-12 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Now to him that is of power to stablish you according to my gospel, and the preaching of Jesus Christ, according to the revelation of the mystery, which was kept secret since the world began."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 16:25 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"How that by revelation he made known unto me the mystery; (as I wrote afore in few words, Whereby, when ye read, ye may understand my knowledge in the mystery of Christ) Which in other ages was not made known unto the sons of men, as it is now revealed unto his holy apostles and prophets by the Spirit."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Ephesians 3:3-5 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Even the mystery which hath been hid from ages and from generations, but now is made manifest to his saints: To whom God would make known what is the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Colossians 1:26-27 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For I would not, brethren, that ye should be ignorant of this mystery, lest ye should be wise in your own conceits; that blindness in part is happened to Israel, until the fulness of the Gentiles be come in."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 11:25 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* According to the Scriptures */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">According to the Scriptures: Fulfilled Prophecy</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              Paul emphasizes that Christ's death, burial, and resurrection happened "according to the scriptures." This was not 
+              an accident or a surprise. It was the fulfillment of prophecy, the completion of God's plan from before the foundation of the world.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 15:3 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And that he was buried, and that he rose again the third day according to the scriptures."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 15:4 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Then he said unto them, O fools, and slow of heart to believe all that the prophets have spoken: Ought not Christ to have suffered these things, and to enter into his glory? And beginning at Moses and all the prophets, he expounded unto them in all the scriptures the things concerning himself."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Luke 24:25-27 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And he said unto them, These are the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and in the prophets, and in the psalms, concerning me."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Luke 24:44 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Isaiah 53:5 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Yet it pleased the LORD to bruise him; he hath put him to grief: when thou shalt make his soul an offering for sin, he shall see his seed, he shall prolong his days, and the pleasure of the LORD shall prosper in his hand."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Isaiah 53:10 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* The Simplicity of the Gospel */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">The Simplicity of the Gospel: Nothing Added, Nothing Taken Away</h3>
+            
+            <div className="bg-green-50 border-l-4 border-green-500 p-6 mb-6 rounded">
+              <p className="text-lg text-gray-800 leading-relaxed mb-4">
+                The grace gospel is simple. It requires no works, no water baptism, no law-keeping, no signs, no speaking in tongues. 
+                It requires only faith in the finished work of Christ: His death, burial, and resurrection.
+              </p>
+            </div>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But I fear, lest by any means, as the serpent beguiled Eve through his subtilty, so your minds should be corrupted from the simplicity that is in Christ."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Corinthians 11:3 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For Christ sent me not to baptize, but to preach the gospel: not with wisdom of words, lest the cross of Christ should be made of none effect."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 1:17 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 1:18 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But we preach Christ crucified, unto the Jews a stumblingblock, and unto the Greeks foolishness; But unto them which are called, both Jews and Greeks, Christ the power of God, and the wisdom of God."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 1:23-24 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For I determined not to know any thing among you, save Jesus Christ, and him crucified."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 2:2 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* The Result: Standing in the Gospel */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">The Result: Standing in the Gospel</h3>
+            
+            <div className="bg-indigo-50 border-l-4 border-indigo-500 p-6 mb-6 rounded">
+              <p className="text-xl font-semibold text-gray-900 mb-4">
+                "I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand."
+              </p>
+              <p className="text-right text-gray-600">— 1 Corinthians 15:1 (KJV)</p>
+            </div>
+
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              When you believe this gospel, you stand in it. You are established, secure, sealed. You don't stand in your works, 
+              your performance, or your law-keeping. You stand in the gospel of grace.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"In whom ye also trusted, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Ephesians 1:13 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Who hath also sealed us, and given the earnest of the Spirit in our hearts."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Corinthians 1:22 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And I am persuaded, that he is able to keep that which I have committed unto him against that day."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Timothy 1:12 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— John 10:28 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 8:38-39 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Now unto him that is able to keep you from falling, and to present you faultless before the presence of his glory with exceeding joy."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Jude 1:24 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* No Other Gospel */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">No Other Gospel: Beware of Additions</h3>
+            
+            <div className="bg-red-50 border-l-4 border-red-500 p-6 mb-6 rounded">
+              <p className="text-xl font-semibold text-gray-900 mb-4">
+                "But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed."
+              </p>
+              <p className="text-right text-gray-600">— Galatians 1:8 (KJV)</p>
+            </div>
+
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              Any gospel that adds to or takes away from the simple message of 1 Corinthians 15:1-4 is a false gospel. 
+              Beware of those who would add water baptism, law-keeping, works, or any other requirement to the grace gospel.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Galatians 1:9 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel: Which is not another; but there be some that trouble you, and would pervert the gospel of Christ."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Galatians 1:6-7 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Christ is become of no effect unto you, whosoever of you are justified by the law; ye are fallen from grace."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Galatians 5:4 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Galatians 5:1 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Application to Communication */}
+          <div className="bg-gradient-to-r from-amber-50 to-orange-50 rounded-xl p-8 mb-8 border-l-4 border-amber-500">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Application to Communication</h3>
+            <p className="text-lg text-gray-700 leading-relaxed mb-4">
+              Understanding Paul's declaration of the grace gospel transforms how we communicate:
+            </p>
+            <ul className="space-y-3 text-gray-700">
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Confidence:</strong> When you know you're saved by grace through faith alone, you speak with confidence. You're not trying to earn approval; you're speaking from a place of being already approved.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Clarity:</strong> The gospel is simple. When you understand it simply, you can communicate it simply. No need for complex theology or added requirements.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Authority:</strong> You're not sharing your opinion or a theory. You're declaring the gospel that saves—the gospel Paul received by revelation from Jesus Christ.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Freedom:</strong> You're free from the burden of trying to prove yourself. The gospel has already proven you righteous. Speak from that freedom.</span>
+              </li>
+            </ul>
+            <p className="text-lg text-gray-700 leading-relaxed mt-6">
+              This is the gospel that saves. This is the gospel we stand in. This is the gospel we declare. When you understand this, 
+              you speak with the authority and confidence that comes from knowing the truth—the simple, powerful, saving truth of the grace gospel.
+            </p>
+          </div>
+        </section>
+
         {/* Conclusion */}
         <section className="bg-gradient-to-r from-indigo-600 to-pink-600 rounded-xl shadow-lg p-8 text-white">
           <h2 className="text-3xl font-bold mb-6">Conclusion: Rightly Dividing for Clear Communication</h2>
@@ -1111,11 +1594,16 @@ export default function AppendixPage() {
             <li>Foundation principles (기초원리) are essential but elementary—the starting point, not the destination</li>
             <li>Perfection (완전한 원리) means maturity—moving from milk to strong meat, from babe to teacher</li>
             <li>We must not keep laying the foundation; we must build upon it and press toward perfection</li>
+            <li>The grace gospel is simple: Christ died for our sins, was buried, and rose again (1 Corinthians 15:1-4)</li>
+            <li>This gospel saves by faith alone—nothing added, nothing taken away</li>
+            <li>We stand in this gospel, secure and sealed by the Holy Spirit</li>
+            <li>Beware of any gospel that adds requirements to the simple message of grace</li>
           </ul>
           <p className="text-lg leading-relaxed">
             When you understand these distinctions, you speak with authority that comes from knowing truth itself. You're not seeking approval 
             through performance; you're speaking from a place of being already approved by God's grace. You're not stuck in the basics; 
-            you're pressing toward maturity and perfection. This is the foundation of eloquent, confident communication.
+            you're pressing toward maturity and perfection. You're not trying to earn salvation; you're declaring the simple gospel that saves. 
+            This is the foundation of eloquent, confident communication.
           </p>
           <div className="mt-6 p-4 bg-white bg-opacity-20 rounded-lg backdrop-blur-sm">
             <p className="text-xl italic mb-2">
