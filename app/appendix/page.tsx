@@ -4869,6 +4869,460 @@ export default function AppendixPage() {
           </div>
         </section>
 
+        {/* Speaking Truth: Religion, Politics, and Homosexuality */}
+        <section className="bg-white rounded-xl shadow-lg p-8 mb-8">
+          <h2 className="text-4xl font-bold text-gray-900 mb-6 text-center">
+            <span className="bg-gradient-to-r from-indigo-600 to-pink-600 bg-clip-text text-transparent">
+              Speaking Truth: The Believer's Position on Religion, Politics, and Homosexuality
+            </span>
+          </h2>
+          
+          <div className="bg-gradient-to-r from-red-50 to-orange-50 border-l-4 border-red-500 p-6 mb-8 rounded">
+            <p className="text-xl font-semibold text-gray-900 mb-4">
+              Many churches and religious leaders today instruct believers: "Don't talk about religion, politics, or homosexuality in church." 
+              But what does the Word of God say? What position should believers take? The Bible is clear: we must speak the truth in love, 
+              regardless of what the world or religious leaders say.
+            </p>
+          </div>
+
+          <p className="text-lg text-gray-700 leading-relaxed mb-8">
+            The world says: "Be quiet. Don't offend. Don't speak about controversial topics." But God's Word says: "Speak the truth. 
+            Preach the word. Be instant in season, out of season. Reprove, rebuke, exhort with all longsuffering and doctrine." 
+            Believers must choose: obey God or obey man. The choice is clear.
+          </p>
+
+          {/* Preach the Word */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Preach the Word: In Season and Out of Season</h3>
+            
+            <div className="bg-indigo-50 border-l-4 border-indigo-500 p-6 mb-6 rounded">
+              <p className="text-xl font-semibold text-gray-900 mb-4">
+                "Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine."
+              </p>
+              <p className="text-right text-gray-600">— 2 Timothy 4:2 (KJV)</p>
+            </div>
+
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              God's command is clear: preach the word. Not when it's convenient. Not when it's popular. Not when it's safe. 
+              But in season and out of season—always. This includes reproving, rebuking, and exhorting. This is not optional. 
+              It is commanded.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Timothy 4:2 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For the time will come when they will not endure sound doctrine; but after their own lusts shall they heap to themselves teachers, having itching ears; And they shall turn away their ears from the truth, and shall be turned unto fables."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Timothy 4:3-4 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But watch thou in all things, endure afflictions, do the work of an evangelist, make full proof of thy ministry."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Timothy 4:5 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:16 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But if our gospel be hid, it is hid to them that are lost: In whom the god of this world hath blinded the minds of them which believe not, lest the light of the glorious gospel of Christ, who is the image of God, should shine unto them."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Corinthians 4:3-4 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Jesus and the Apostles Spoke About Politics */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Jesus and the Apostles Spoke About Politics</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              Jesus and the apostles did not avoid political topics. They spoke directly to political leaders, addressed political issues, 
+              and declared God's truth regardless of political consequences. They were not silent. They spoke truth to power.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Then saith he unto them, Render therefore unto Caesar the things which are Caesar's; and unto God the things that are God's."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 22:21 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And Jesus stood before the governor: and the governor asked him, saying, Art thou the King of the Jews? And Jesus said unto him, Thou sayest."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 27:11 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Pilate therefore said unto him, Art thou a king then? Jesus answered, Thou sayest that I am a king. To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— John 18:37 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Then Peter and the other apostles answered and said, We ought to obey God rather than men."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Acts 5:29 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But Peter and John answered and said unto them, Whether it be right in the sight of God to hearken unto you more than unto God, judge ye."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Acts 4:19 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For we cannot but speak the things which we have seen and heard."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Acts 4:20 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* The Bible Speaks Clearly About Homosexuality */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">The Bible Speaks Clearly About Homosexuality</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              The Bible is not silent about homosexuality. It speaks clearly, directly, and repeatedly. It calls it sin, abomination, 
+              and against nature. To be silent about this is to be unfaithful to God's Word.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Thou shalt not lie with mankind, as with womankind: it is abomination."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Leviticus 18:22 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"If a man also lie with mankind, as he lieth with a woman, both of them have committed an abomination: they shall surely be put to death; their blood shall be upon them."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Leviticus 20:13 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For this cause God gave them up unto vile affections: for even their women did change the natural use into that which is against nature: And likewise also the men, leaving the natural use of the woman, burned in their lust one toward another; men with men working that which is unseemly, and receiving in themselves that recompence of their error which was meet."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:26-27 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 6:9 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, shall inherit the kingdom of God."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 6:10 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And such were some of you: but ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Jesus, and by the Spirit of our God."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 6:11 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Obey God Rather Than Men */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Obey God Rather Than Men</h3>
+            
+            <div className="bg-green-50 border-l-4 border-green-500 p-6 mb-6 rounded">
+              <p className="text-xl font-semibold text-gray-900 mb-4">
+                "Then Peter and the other apostles answered and said, We ought to obey God rather than men."
+              </p>
+              <p className="text-right text-gray-600">— Acts 5:29 (KJV)</p>
+            </div>
+
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              When religious leaders or the world tells us to be silent about truth, we must choose: obey God or obey men. 
+              The apostles chose to obey God. They spoke truth regardless of consequences. So must we.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Then Peter and the other apostles answered and said, We ought to obey God rather than men."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Acts 5:29 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But Peter and John answered and said unto them, Whether it be right in the sight of God to hearken unto you more than unto God, judge ye."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Acts 4:19 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For we cannot but speak the things which we have seen and heard."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Acts 4:20 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 10:28 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Whosoever therefore shall confess me before men, him will I confess also before my Father which is in heaven. But whosoever shall deny me before men, him will I also deny before my Father which is in heaven."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 10:32-33 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Speak the Truth in Love */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Speak the Truth in Love</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              We must speak truth, but we must speak it in love. Not in hate. Not in anger. Not in self-righteousness. 
+              But in love, with compassion, with the goal of bringing people to Christ.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But speaking the truth in love, may grow up into him in all things, which is the head, even Christ."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Ephesians 4:15 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— John 3:16 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And of some have compassion, making a difference: And others save with fear, pulling them out of the fire; hating even the garment spotted by the flesh."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Jude 1:22-23 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Brethren, if any of you do err from the truth, and one convert him; Let him know, that he which converteth the sinner from the error of his way shall save a soul from death, and shall hide a multitude of sins."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— James 5:19-20 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* The Watchman's Responsibility */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">The Watchman's Responsibility</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              God has made us watchmen. We have a responsibility to warn. If we are silent, their blood is on our hands. 
+              We must speak, regardless of what the world says.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Son of man, I have made thee a watchman unto the house of Israel: therefore hear the word at my mouth, and give them warning from me. When I say unto the wicked, Thou shalt surely die; and thou givest him not warning, nor speakest to warn the wicked from his wicked way, to save his life; the same wicked man shall die in his iniquity; but his blood will I require at thine hand."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Ezekiel 3:17-18 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Yet if thou warn the wicked, and he turn not from his wickedness, nor from his wicked way, he shall die in his iniquity; but thou hast delivered thy soul."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Ezekiel 3:19 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Again, when a righteous man doth turn from his righteousness, and commit iniquity, and I lay a stumblingblock before him, he shall die: because thou hast not given him warning, he shall die in his sin, and his righteousness which he hath done shall not be remembered; but his blood will I require at thine hand."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Ezekiel 3:20 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Salt and Light */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Salt and Light: Not Hidden</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              We are called to be salt and light. Salt that loses its savor is good for nothing. Light hidden under a bushel 
+              is useless. We must speak truth, shine light, preserve truth—not hide it.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 5:13 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Ye are the light of the world. A city that is set on an hill cannot be hid. Neither do men light a candle, and put it under a bushel, but on a candlestick; and it giveth light unto all that are in the house."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 5:14-15 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 5:16 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Additional Supporting Verses */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Additional Supporting Verses</h3>
+            
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Timothy 4:2 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Then Peter and the other apostles answered and said, We ought to obey God rather than men."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Acts 5:29 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For we cannot but speak the things which we have seen and heard."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Acts 4:20 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But speaking the truth in love, may grow up into him in all things, which is the head, even Christ."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Ephesians 4:15 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For this cause God gave them up unto vile affections: for even their women did change the natural use into that which is against nature: And likewise also the men, leaving the natural use of the woman, burned in their lust one toward another; men with men working that which is unseemly, and receiving in themselves that recompence of their error which was meet."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:26-27 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 6:9 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 5:13 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Ye are the light of the world. A city that is set on an hill cannot be hid."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 5:14 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 5:16 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Application to Communication */}
+          <div className="bg-gradient-to-r from-amber-50 to-orange-50 rounded-xl p-8 mb-8 border-l-4 border-amber-500">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Application to Communication</h3>
+            <p className="text-lg text-gray-700 leading-relaxed mb-4">
+              Understanding the believer's position on speaking truth transforms how we communicate:
+            </p>
+            <ul className="space-y-3 text-gray-700">
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Obey God, Not Men:</strong> When religious leaders or the world tell us to be silent, we must choose to obey God. We ought to obey God rather than men.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Preach the Word:</strong> We must preach the word in season and out of season—always. This includes reproving, rebuking, and exhorting.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Speak Truth in Love:</strong> We must speak truth, but in love. Not in hate or anger, but with compassion, with the goal of bringing people to Christ.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Be Salt and Light:</strong> We are called to be salt and light. We cannot hide truth. We must speak it, shine it, preserve it.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>The Watchman's Responsibility:</strong> We have a responsibility to warn. If we are silent, their blood is on our hands. We must speak.</span>
+              </li>
+            </ul>
+            <p className="text-lg text-gray-700 leading-relaxed mt-6">
+              Rightly dividing means understanding that we must speak truth, regardless of what the world or religious leaders say. 
+              The world says: "Be quiet. Don't offend. Don't speak about controversial topics." But God's Word says: "Preach the word. 
+              Be instant in season, out of season. Reprove, rebuke, exhort." Jesus and the apostles spoke about politics, religion, 
+              and sin. They did not remain silent. Neither should we. We must obey God rather than men. We must speak truth in love. 
+              We must be salt and light. We must fulfill our responsibility as watchmen. This is the believer's position. This is 
+              how we communicate truth with authority and love.
+            </p>
+          </div>
+        </section>
+
         {/* Conclusion */}
         <section className="bg-gradient-to-r from-indigo-600 to-pink-600 rounded-xl shadow-lg p-8 text-white">
           <h2 className="text-3xl font-bold mb-6">Conclusion: Rightly Dividing for Clear Communication</h2>
@@ -4915,6 +5369,10 @@ export default function AppendixPage() {
             <li>Renewing the mind enables us to prove what is that good, acceptable, and perfect will of God (Romans 12:2)</li>
             <li>Right thinking leads to right living - the mind determines the direction of life</li>
             <li>We have the mind of Christ - thinking like God thinks, seeing from God's perspective</li>
+            <li>We must obey God rather than men - preach the word in season and out of season (Acts 5:29, 2 Timothy 4:2)</li>
+            <li>We must speak truth about religion, politics, and homosexuality - not remain silent</li>
+            <li>We must speak truth in love - with compassion, to bring people to Christ (Ephesians 4:15)</li>
+            <li>We are salt and light - we cannot hide truth, we must speak it and shine it (Matthew 5:13-16)</li>
           </ul>
           <p className="text-lg leading-relaxed">
             When you understand these distinctions, you speak with authority that comes from knowing truth itself. You're not seeking approval 
@@ -4931,8 +5389,10 @@ export default function AppendixPage() {
             is in spirit and truth, from the heart, following God's Word, not man's traditions. You understand the critical importance of 
             knowledge of God and renewing the mind. When people reject God in their knowledge, they are given over to a reprobate mind. But when 
             we renew our minds according to God's Word, we can prove what is that good, and acceptable, and perfect will of God. Right thinking 
-            leads to right living. The mind of Christ enables us to think like God thinks and live according to His will. This is the foundation 
-            of eloquent, confident communication.
+            leads to right living. The mind of Christ enables us to think like God thinks and live according to His will. You understand that 
+            we must obey God rather than men. When religious leaders or the world tell us to be silent about religion, politics, or homosexuality, 
+            we must choose to obey God. We must preach the word in season and out of season. We must speak truth in love. We must be salt and light. 
+            We must fulfill our responsibility as watchmen. This is the believer's position. This is the foundation of eloquent, confident communication.
           </p>
           <div className="mt-6 p-4 bg-white bg-opacity-20 rounded-lg backdrop-blur-sm">
             <p className="text-xl italic mb-2">
