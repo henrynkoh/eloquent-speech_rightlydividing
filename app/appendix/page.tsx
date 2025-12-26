@@ -4356,6 +4356,519 @@ export default function AppendixPage() {
           </div>
         </section>
 
+        {/* Knowledge of God and Renewing the Mind */}
+        <section className="bg-white rounded-xl shadow-lg p-8 mb-8">
+          <h2 className="text-4xl font-bold text-gray-900 mb-6 text-center">
+            <span className="bg-gradient-to-r from-indigo-600 to-pink-600 bg-clip-text text-transparent">
+              Knowledge of God and Renewing the Mind: The Importance of Right Thinking (Romans 1:28, 12:2)
+            </span>
+          </h2>
+          
+          <div className="bg-gradient-to-r from-blue-50 to-indigo-50 border-l-4 border-blue-500 p-6 mb-8 rounded">
+            <p className="text-2xl font-semibold text-gray-900 mb-4">
+              "And even as they did not like to retain God in their knowledge, God gave them over to a reprobate mind, to do those things which are not convenient."
+            </p>
+            <p className="text-right text-gray-600 text-lg mb-4">— Romans 1:28 (KJV)</p>
+            <p className="text-2xl font-semibold text-gray-900 mb-4">
+              "And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God."
+            </p>
+            <p className="text-right text-gray-600 text-lg">— Romans 12:2 (KJV)</p>
+          </div>
+
+          <p className="text-lg text-gray-700 leading-relaxed mb-8">
+            The knowledge of God is not optional—it is essential. When people reject God in their knowledge, they are given over to 
+            a reprobate mind. But when we renew our minds according to God's Word, we can prove—discern, understand, know—what is that 
+            good, and acceptable, and perfect will of God. Right thinking leads to right living. Wrong thinking leads to destruction.
+          </p>
+
+          {/* Not Retaining God in Knowledge */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Not Retaining God in Knowledge</h3>
+            
+            <div className="bg-red-50 border-l-4 border-red-500 p-6 mb-6 rounded">
+              <p className="text-xl font-semibold text-gray-900 mb-4">
+                "And even as they did not like to retain God in their knowledge, God gave them over to a reprobate mind, to do those things which are not convenient."
+              </p>
+              <p className="text-right text-gray-600">— Romans 1:28 (KJV)</p>
+            </div>
+
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              The ultimate rejection: not liking to retain God in knowledge. This is not ignorance—it is willful rejection. 
+              They knew God but did not want to keep that knowledge. The result: a reprobate mind—a mind that cannot approve, 
+              a mind given over to what is not convenient, not fitting, not proper.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And even as they did not like to retain God in their knowledge, God gave them over to a reprobate mind, to do those things which are not convenient."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:28 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Because that, when they knew God, they glorified him not as God, neither were thankful; but became vain in their imaginations, and their foolish heart was darkened."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:21 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And even as they did not like to retain God in their knowledge, God gave them over to a reprobate mind."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:28 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who hold the truth in unrighteousness."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:18 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Because that which may be known of God is manifest in them; for God hath shewed it unto them."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:19 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:20 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Reprobate Mind */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Reprobate Mind: The Consequence of Rejecting God</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              A reprobate mind is a mind that cannot approve, cannot discern, cannot judge rightly. It is a mind given over to 
+              what is not convenient—not fitting, not proper, not right. This is the consequence of rejecting God in knowledge.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And even as they did not like to retain God in their knowledge, God gave them over to a reprobate mind, to do those things which are not convenient."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:28 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Because that, when they knew God, they glorified him not as God, neither were thankful; but became vain in their imaginations, and their foolish heart was darkened."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:21 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Professing themselves to be wise, they became fools."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:22 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For the wisdom of this world is foolishness with God. For it is written, He taketh the wise in their own craftiness."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:19 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Let no man deceive himself. If any man among you seemeth to be wise in this world, let him become a fool, that he may be wise."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 3:18 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Renewing the Mind */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Renewing the Mind: The Solution</h3>
+            
+            <div className="bg-green-50 border-l-4 border-green-500 p-6 mb-6 rounded">
+              <p className="text-xl font-semibold text-gray-900 mb-4">
+                "And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God."
+              </p>
+              <p className="text-right text-gray-600">— Romans 12:2 (KJV)</p>
+            </div>
+
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              The solution is not to conform to this world, but to be transformed by the renewing of the mind. When the mind is renewed 
+              according to God's Word, we can prove—discern, understand, know—what is that good, and acceptable, and perfect will of God. 
+              Right thinking leads to right living.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 12:2 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For who hath known the mind of the Lord, that he may instruct him? But we have the mind of Christ."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 2:16 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Let this mind be in you, which was also in Christ Jesus."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Philippians 2:5 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Corinthians 10:5 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Philippians 4:8 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Set your affection on things above, not on things on the earth."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Colossians 3:2 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Proving the Will of God */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Proving the Good, Acceptable, and Perfect Will of God</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              When the mind is renewed, we can prove—discern, understand, know—what is that good, and acceptable, and perfect will of God. 
+              We can distinguish between what is good and what is evil, what is acceptable and what is not, what is perfect and what is incomplete.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 12:2 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For every one that useth milk is unskilful in the word of righteousness: for he is a babe. But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Hebrews 5:13-14 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"That ye may approve things that are excellent; that ye may be sincere and without offence till the day of Christ."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Philippians 1:10 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Wherefore be ye not unwise, but understanding what the will of the Lord is."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Ephesians 5:17 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For this is the will of God, even your sanctification, that ye should abstain from fornication."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Thessalonians 4:3 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"In every thing give thanks: for this is the will of God in Christ Jesus concerning you."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Thessalonians 5:18 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* The Mind of Christ */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">The Mind of Christ</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              The renewed mind is the mind of Christ. It thinks like Christ thinks. It sees things from God's perspective. 
+              It understands the deep things of God. This is the goal of renewing the mind.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For who hath known the mind of the Lord, that he may instruct him? But we have the mind of Christ."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 2:16 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Let this mind be in you, which was also in Christ Jesus."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Philippians 2:5 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But we have the mind of Christ."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 2:16 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Corinthians 10:5 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Philippians 4:8 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Knowledge of God */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">The Importance of Knowledge of God</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              Knowledge of God is not optional—it is essential. It is the foundation of right thinking. Without knowledge of God, 
+              the mind becomes reprobate. With knowledge of God, the mind is renewed and can discern God's will.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And even as they did not like to retain God in their knowledge, God gave them over to a reprobate mind, to do those things which are not convenient."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:28 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"My people are destroyed for lack of knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest to me: seeing thou hast forgotten the law of thy God, I will also forget thy children."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Hosea 4:6 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Grace and peace be multiplied unto you through the knowledge of God, and of Jesus our Lord."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Peter 1:2 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"According as his divine power hath given unto us all things that pertain unto life and godliness, through the knowledge of him that hath called us to glory and virtue."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Peter 1:3 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ. To him be glory both now and for ever. Amen."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Peter 3:18 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"That the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Ephesians 1:17 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Right Thinking Leads to Right Living */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Right Thinking Leads to Right Living</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              Right thinking leads to right living. Wrong thinking leads to wrong living. The mind determines the direction of life. 
+              When the mind is renewed according to God's Word, life is transformed.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 12:2 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Keep thy heart with all diligence; for out of it are the issues of life."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Proverbs 4:23 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For as he thinketh in his heart, so is he: Eat and drink, saith he to thee; but his heart is not with thee."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Proverbs 23:7 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Corinthians 10:5 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Philippians 4:8 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Additional Supporting Verses */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Additional Supporting Verses</h3>
+            
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And even as they did not like to retain God in their knowledge, God gave them over to a reprobate mind, to do those things which are not convenient."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:28 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 12:2 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For who hath known the mind of the Lord, that he may instruct him? But we have the mind of Christ."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 2:16 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Let this mind be in you, which was also in Christ Jesus."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Philippians 2:5 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Corinthians 10:5 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Philippians 4:8 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Set your affection on things above, not on things on the earth."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Colossians 3:2 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"My people are destroyed for lack of knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest to me: seeing thou hast forgotten the law of thy God, I will also forget thy children."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Hosea 4:6 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Grace and peace be multiplied unto you through the knowledge of God, and of Jesus our Lord."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Peter 1:2 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ. To him be glory both now and for ever. Amen."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Peter 3:18 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Application to Communication */}
+          <div className="bg-gradient-to-r from-amber-50 to-orange-50 rounded-xl p-8 mb-8 border-l-4 border-amber-500">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Application to Communication</h3>
+            <p className="text-lg text-gray-700 leading-relaxed mb-4">
+              Understanding the importance of knowledge of God and renewing the mind transforms how we communicate:
+            </p>
+            <ul className="space-y-3 text-gray-700">
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Knowledge of God First:</strong> Always prioritize knowledge of God. Without it, the mind becomes reprobate. With it, the mind is renewed.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Renew the Mind:</strong> Encourage people to renew their minds according to God's Word. This is the key to proving God's will.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Right Thinking:</strong> Emphasize that right thinking leads to right living. The mind determines the direction of life.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>The Mind of Christ:</strong> Point people to the mind of Christ—thinking like God thinks, seeing from God's perspective.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Prove God's Will:</strong> Show that with a renewed mind, we can prove—discern, understand, know—what is that good, and acceptable, and perfect will of God.</span>
+              </li>
+            </ul>
+            <p className="text-lg text-gray-700 leading-relaxed mt-6">
+              Rightly dividing means understanding the critical importance of knowledge of God and renewing the mind. When people 
+              reject God in their knowledge, they are given over to a reprobate mind. But when we renew our minds according to God's Word, 
+              we can prove what is that good, and acceptable, and perfect will of God. Right thinking leads to right living. The mind 
+              of Christ enables us to think like God thinks and live according to His will. Speak this truth clearly, emphasizing the 
+              importance of knowledge of God and the renewing of the mind.
+            </p>
+          </div>
+        </section>
+
         {/* Conclusion */}
         <section className="bg-gradient-to-r from-indigo-600 to-pink-600 rounded-xl shadow-lg p-8 text-white">
           <h2 className="text-3xl font-bold mb-6">Conclusion: Rightly Dividing for Clear Communication</h2>
@@ -4398,6 +4911,10 @@ export default function AppendixPage() {
             <li>Teaching commandments of men as doctrines makes worship vain and worthless</li>
             <li>Human traditions make void the Word of God and transgress God's commandments</li>
             <li>True worship is in spirit and truth, from the heart, following God's Word</li>
+            <li>Knowledge of God is essential - rejecting God in knowledge leads to a reprobate mind (Romans 1:28)</li>
+            <li>Renewing the mind enables us to prove what is that good, acceptable, and perfect will of God (Romans 12:2)</li>
+            <li>Right thinking leads to right living - the mind determines the direction of life</li>
+            <li>We have the mind of Christ - thinking like God thinks, seeing from God's perspective</li>
           </ul>
           <p className="text-lg leading-relaxed">
             When you understand these distinctions, you speak with authority that comes from knowing truth itself. You're not seeking approval 
@@ -4411,7 +4928,11 @@ export default function AppendixPage() {
             exchange—the truth of God for a lie, the glory of the incorruptible God for images of corruptible creatures. The Creator is blessed 
             forever. He alone is worthy of worship. You understand the ultimate religious folly: putting the traditions of men—the commandments 
             of elders—above the Word of God. This is vain worship. It is transgressing God's commandments to keep human traditions. True worship 
-            is in spirit and truth, from the heart, following God's Word, not man's traditions. This is the foundation of eloquent, confident communication.
+            is in spirit and truth, from the heart, following God's Word, not man's traditions. You understand the critical importance of 
+            knowledge of God and renewing the mind. When people reject God in their knowledge, they are given over to a reprobate mind. But when 
+            we renew our minds according to God's Word, we can prove what is that good, and acceptable, and perfect will of God. Right thinking 
+            leads to right living. The mind of Christ enables us to think like God thinks and live according to His will. This is the foundation 
+            of eloquent, confident communication.
           </p>
           <div className="mt-6 p-4 bg-white bg-opacity-20 rounded-lg backdrop-blur-sm">
             <p className="text-xl italic mb-2">
