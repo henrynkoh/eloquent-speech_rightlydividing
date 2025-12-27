@@ -5699,6 +5699,411 @@ export default function AppendixPage() {
           </div>
         </section>
 
+        {/* The 7,000 Who Have Not Bowed to Baal */}
+        <section className="bg-white rounded-xl shadow-lg p-8 mb-8">
+          <h2 className="text-4xl font-bold text-gray-900 mb-6 text-center">
+            <span className="bg-gradient-to-r from-indigo-600 to-pink-600 bg-clip-text text-transparent">
+              The 7,000 Who Have Not Bowed to Baal: God's Remnant
+            </span>
+          </h2>
+          
+          <div className="bg-gradient-to-r from-blue-50 to-indigo-50 border-l-4 border-blue-500 p-6 mb-8 rounded">
+            <p className="text-xl font-semibold text-gray-900 mb-4">
+              "But what saith the answer of God unto him? I have reserved to myself seven thousand men, who have not bowed the knee to the image of Baal."
+            </p>
+            <p className="text-right text-gray-600 text-lg">— Romans 11:4 (KJV)</p>
+          </div>
+
+          <p className="text-lg text-gray-700 leading-relaxed mb-8">
+            When Elijah thought he was alone, God revealed that He had reserved 7,000 who had not bowed to Baal. This is the remnant—the 
+            faithful few who remain true to God even when the majority apostatize. This concept is crucial for understanding God's preservation 
+            of His people and the reality that there are always true believers, even when they seem few.
+          </p>
+
+          {/* Elijah's Complaint */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Elijah's Complaint: "I Only Am Left"</h3>
+            
+            <div className="bg-indigo-50 border-l-4 border-indigo-500 p-6 mb-6 rounded">
+              <p className="text-xl font-semibold text-gray-900 mb-4">
+                "And he said, I have been very jealous for the LORD God of hosts: for the children of Israel have forsaken thy covenant, thrown down thine altars, and slain thy prophets with the sword; and I, even I only, am left; and they seek my life, to take it away."
+              </p>
+              <p className="text-right text-gray-600">— 1 Kings 19:10 (KJV)</p>
+            </div>
+
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              Elijah thought he was the only one left who remained faithful to God. He felt alone, isolated, abandoned. But God knew better. 
+              God had reserved 7,000 who had not bowed to Baal. Elijah's perception was wrong. God's knowledge was right.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And he said, I have been very jealous for the LORD God of hosts: for the children of Israel have forsaken thy covenant, thrown down thine altars, and slain thy prophets with the sword; and I, even I only, am left; and they seek my life, to take it away."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Kings 19:10 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And he said, I have been very jealous for the LORD God of hosts: because the children of Israel have forsaken thy covenant, thrown down thine altars, and slain thy prophets with the sword; and I, even I only, am left; and they seek my life, to take it away."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Kings 19:14 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Yet I have left me seven thousand in Israel, all the knees which have not bowed unto Baal, and every mouth which hath not kissed him."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Kings 19:18 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* God's Answer: 7,000 Reserved */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">God's Answer: 7,000 Reserved</h3>
+            
+            <div className="bg-green-50 border-l-4 border-green-500 p-6 mb-6 rounded">
+              <p className="text-xl font-semibold text-gray-900 mb-4">
+                "Yet I have left me seven thousand in Israel, all the knees which have not bowed unto Baal, and every mouth which hath not kissed him."
+              </p>
+              <p className="text-right text-gray-600">— 1 Kings 19:18 (KJV)</p>
+            </div>
+
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              God's answer was clear: He had reserved 7,000 in Israel who had not bowed to Baal. These were the faithful remnant—those who 
+              remained true to God even when the majority apostatize. They had not bowed the knee to Baal. They had not kissed Baal. 
+              They remained faithful.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Yet I have left me seven thousand in Israel, all the knees which have not bowed unto Baal, and every mouth which hath not kissed him."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Kings 19:18 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But what saith the answer of God unto him? I have reserved to myself seven thousand men, who have not bowed the knee to the image of Baal."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 11:4 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Even so then at this present time also there is a remnant according to the election of grace."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 11:5 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* The Remnant According to Election of Grace */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">The Remnant According to Election of Grace</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              Paul applies this principle to his own time: "Even so then at this present time also there is a remnant according to the election of grace." 
+              There is always a remnant—a faithful few who remain true to God. This remnant is according to the election of grace, not works.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"I say then, Hath God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 11:1 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"God hath not cast away his people which he foreknew. Wot ye not what the scripture saith of Elias? how he maketh intercession to God against Israel, saying,"</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 11:2 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Lord, they have killed thy prophets, and digged down thine altars; and I am left alone, and they seek my life."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 11:3 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But what saith the answer of God unto him? I have reserved to myself seven thousand men, who have not bowed the knee to the image of Baal."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 11:4 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Even so then at this present time also there is a remnant according to the election of grace."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 11:5 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And if by grace, then is it no more of works: otherwise grace is no more grace. But if it be of works, then is it no more grace: otherwise work is no more work."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 11:6 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Not Bowed the Knee to Baal */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Not Bowed the Knee to Baal</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              The 7,000 had not bowed the knee to Baal. They had not compromised. They had not apostatize. They remained faithful to God 
+              even when the majority turned away. This is the mark of the remnant—faithfulness in the face of apostasy.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Yet I have left me seven thousand in Israel, all the knees which have not bowed unto Baal, and every mouth which hath not kissed him."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Kings 19:18 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But what saith the answer of God unto him? I have reserved to myself seven thousand men, who have not bowed the knee to the image of Baal."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 11:4 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And Elijah came unto all the people, and said, How long halt ye between two opinions? if the LORD be God, follow him: but if Baal, then follow him. And the people answered him not a word."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Kings 18:21 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 6:24 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* God's Preservation of the Remnant */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">God's Preservation of the Remnant</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              God preserves His remnant. He reserves them for Himself. They are His. He knows who they are, even when they seem few. 
+              He protects them, even when they seem alone. He preserves them, even when the majority apostatize.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Yet I have left me seven thousand in Israel, all the knees which have not bowed unto Baal, and every mouth which hath not kissed him."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Kings 19:18 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But what saith the answer of God unto him? I have reserved to myself seven thousand men, who have not bowed the knee to the image of Baal."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 11:4 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Even so then at this present time also there is a remnant according to the election of grace."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 11:5 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And I will make them and the places round about my hill a blessing; and I will cause the shower to come down in his season; there shall be showers of blessing."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Ezekiel 34:26 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And it shall come to pass, that in all the land, saith the LORD, two parts therein shall be cut off and die; but the third shall be left therein."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Zechariah 13:8 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And I will bring the third part through the fire, and will refine them as silver is refined, and will try them as gold is tried: they shall call on my name, and I will hear them: I will say, It is my people: and they shall say, The LORD is my God."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Zechariah 13:9 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* The Faithful Few */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">The Faithful Few: Always a Remnant</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              Throughout history, there has always been a remnant—a faithful few who remain true to God. Even when the majority apostatize, 
+              even when it seems like everyone has turned away, God always has His remnant. They are the 7,000 who have not bowed to Baal.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Even so then at this present time also there is a remnant according to the election of grace."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 11:5 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But what saith the answer of God unto him? I have reserved to myself seven thousand men, who have not bowed the knee to the image of Baal."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 11:4 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Except the LORD of hosts had left unto us a very small remnant, we should have been as Sodom, and we should have been like unto Gomorrah."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Isaiah 1:9 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And it shall come to pass in that day, that the remnant of Israel, and such as are escaped of the house of Jacob, shall no more again stay upon him that smote them; but shall stay upon the LORD, the Holy One of Israel, in truth."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Isaiah 10:20 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And the remnant of Jacob shall be in the midst of many people as a dew from the LORD, as the showers upon the grass, that tarrieth not for man, nor waiteth for the sons of men."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Micah 5:7 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Additional Supporting Verses */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Additional Supporting Verses</h3>
+            
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And he said, I have been very jealous for the LORD God of hosts: for the children of Israel have forsaken thy covenant, thrown down thine altars, and slain thy prophets with the sword; and I, even I only, am left; and they seek my life, to take it away."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Kings 19:10 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Yet I have left me seven thousand in Israel, all the knees which have not bowed unto Baal, and every mouth which hath not kissed him."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Kings 19:18 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"I say then, Hath God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 11:1 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"God hath not cast away his people which he foreknew. Wot ye not what the scripture saith of Elias? how he maketh intercession to God against Israel, saying, Lord, they have killed thy prophets, and digged down thine altars; and I am left alone, and they seek my life."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 11:2-3 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But what saith the answer of God unto him? I have reserved to myself seven thousand men, who have not bowed the knee to the image of Baal."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 11:4 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Even so then at this present time also there is a remnant according to the election of grace."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 11:5 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And if by grace, then is it no more of works: otherwise grace is no more grace. But if it be of works, then is it no more grace: otherwise work is no more work."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 11:6 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Except the LORD of hosts had left unto us a very small remnant, we should have been as Sodom, and we should have been like unto Gomorrah."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Isaiah 1:9 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And it shall come to pass in that day, that the remnant of Israel, and such as are escaped of the house of Jacob, shall no more again stay upon him that smote them; but shall stay upon the LORD, the Holy One of Israel, in truth."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Isaiah 10:20 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Application to Communication */}
+          <div className="bg-gradient-to-r from-amber-50 to-orange-50 rounded-xl p-8 mb-8 border-l-4 border-amber-500">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Application to Communication</h3>
+            <p className="text-lg text-gray-700 leading-relaxed mb-4">
+              Understanding the 7,000 who have not bowed to Baal transforms how we communicate:
+            </p>
+            <ul className="space-y-3 text-gray-700">
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>You Are Not Alone:</strong> Even when it seems like you're the only one, God has His remnant. There are always faithful believers, even when they seem few.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>God Preserves His Remnant:</strong> God reserves His remnant for Himself. He knows who they are. He protects them. He preserves them.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Remnant According to Grace:</strong> The remnant is according to the election of grace, not works. It is God's work, not man's.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Not Bowed to Baal:</strong> The remnant has not bowed to Baal. They have not compromised. They remain faithful even when the majority apostatize.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Always a Remnant:</strong> Throughout history, there has always been a remnant. Even when it seems like everyone has turned away, God always has His faithful few.</span>
+              </li>
+            </ul>
+            <p className="text-lg text-gray-700 leading-relaxed mt-6">
+              Rightly dividing means understanding that God always has His remnant. When Elijah thought he was alone, God revealed that 
+              He had reserved 7,000 who had not bowed to Baal. This is the remnant—the faithful few who remain true to God even when the 
+              majority apostatize. The remnant is according to the election of grace. God preserves them. He knows who they are, even when 
+              they seem few. There are always true believers, even when they seem alone. Speak this truth clearly, encouraging believers 
+              that they are not alone, that God has His remnant, and that faithfulness will be rewarded.
+            </p>
+          </div>
+        </section>
+
         {/* Conclusion */}
         <section className="bg-gradient-to-r from-indigo-600 to-pink-600 rounded-xl shadow-lg p-8 text-white">
           <h2 className="text-3xl font-bold mb-6">Conclusion: Rightly Dividing for Clear Communication</h2>
@@ -5753,6 +6158,10 @@ export default function AppendixPage() {
             <li>The chaff must be separated from the wheat - the chaff will be burned with unquenchable fire (Matthew 3:12)</li>
             <li>At the end of the age, God will separate them - tares burned, wheat gathered into the barn (Matthew 13:40-43)</li>
             <li>We must be patient and cannot separate them prematurely - God will do it at the harvest</li>
+            <li>God always has His remnant - the 7,000 who have not bowed to Baal (1 Kings 19:18, Romans 11:4)</li>
+            <li>The remnant is according to the election of grace, not works (Romans 11:5-6)</li>
+            <li>Even when it seems like you're alone, God has His faithful few who remain true to Him</li>
+            <li>God preserves His remnant - He reserves them for Himself and knows who they are</li>
           </ul>
           <p className="text-lg leading-relaxed">
             When you understand these distinctions, you speak with authority that comes from knowing truth itself. You're not seeking approval 
@@ -5775,8 +6184,10 @@ export default function AppendixPage() {
             We must fulfill our responsibility as watchmen. You understand that in the visible church, there are both wheat (true believers) and 
             tares (false believers). They grow together until the harvest. The chaff must be separated from the wheat. At the end of the age, 
             God will separate them. The tares will be burned; the wheat will be gathered into the barn. The chaff will be separated and burned; 
-            the wheat will be preserved. We must be patient and cannot separate them prematurely. This is the believer's position. This is the 
-            foundation of eloquent, confident communication.
+            the wheat will be preserved. We must be patient and cannot separate them prematurely. You understand that God always has His remnant—the 
+            7,000 who have not bowed to Baal. Even when it seems like you're alone, God has His faithful few who remain true to Him. The remnant is 
+            according to the election of grace. God preserves them. He knows who they are, even when they seem few. This is the believer's position. 
+            This is the foundation of eloquent, confident communication.
           </p>
           <div className="mt-6 p-4 bg-white bg-opacity-20 rounded-lg backdrop-blur-sm">
             <p className="text-xl italic mb-2">
