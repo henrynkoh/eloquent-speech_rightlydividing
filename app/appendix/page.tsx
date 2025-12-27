@@ -5323,6 +5323,382 @@ export default function AppendixPage() {
           </div>
         </section>
 
+        {/* Wheat and Tares: The Good Seed and the Chaff */}
+        <section className="bg-white rounded-xl shadow-lg p-8 mb-8">
+          <h2 className="text-4xl font-bold text-gray-900 mb-6 text-center">
+            <span className="bg-gradient-to-r from-indigo-600 to-pink-600 bg-clip-text text-transparent">
+              Wheat and Tares: The Good Seed and the Chaff
+            </span>
+          </h2>
+          
+          <div className="bg-gradient-to-r from-blue-50 to-indigo-50 border-l-4 border-blue-500 p-6 mb-8 rounded">
+            <p className="text-xl font-semibold text-gray-900 mb-4">
+              The Bible uses the imagery of wheat and tares, good seed and chaff, to distinguish between true believers and false believers, 
+              between the genuine and the counterfeit. Understanding this distinction is essential for rightly dividing the word of truth.
+            </p>
+          </div>
+
+          <p className="text-lg text-gray-700 leading-relaxed mb-8">
+            In the visible church, there are both wheat (true believers) and tares (false believers). They grow together until the harvest. 
+            But at the end, they will be separated. The wheat will be gathered into the barn; the tares will be burned. The chaff will be 
+            separated from the wheat and burned with unquenchable fire. This is the final separation.
+          </p>
+
+          {/* The Parable of Wheat and Tares */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">The Parable of Wheat and Tares</h3>
+            
+            <div className="bg-indigo-50 border-l-4 border-indigo-500 p-6 mb-6 rounded">
+              <p className="text-xl font-semibold text-gray-900 mb-4">
+                "Another parable put he forth unto them, saying, The kingdom of heaven is likened unto a man which sowed good seed in his field: 
+                But while men slept, his enemy came and sowed tares among the wheat, and went his way. But when the blade was sprung up, and brought 
+                forth fruit, then appeared the tares also. So the servants of the householder came and said unto him, Sir, didst not thou sow good 
+                seed in thy field? from whence then hath it tares? He said unto them, An enemy hath done this. The servants said unto him, Wilt thou 
+                then that we go and gather them up? But he said, Nay; lest while ye gather up the tares, ye root up also the wheat with them. Let both 
+                grow together until the harvest: and in the time of harvest I will say to the reapers, Gather ye together first the tares, and bind them 
+                in bundles to burn them: but gather the wheat into my barn."
+              </p>
+              <p className="text-right text-gray-600">— Matthew 13:24-30 (KJV)</p>
+            </div>
+
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              Jesus told this parable to illustrate that in the kingdom of heaven (the visible church), there are both good seed (true believers) 
+              and tares (false believers). They grow together until the harvest (the end of the age). At that time, they will be separated. 
+              The tares will be burned; the wheat will be gathered into the barn.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Another parable put he forth unto them, saying, The kingdom of heaven is likened unto a man which sowed good seed in his field."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 13:24 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But while men slept, his enemy came and sowed tares among the wheat, and went his way."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 13:25 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Let both grow together until the harvest: and in the time of harvest I will say to the reapers, Gather ye together first the tares, and bind them in bundles to burn them: but gather the wheat into my barn."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 13:30 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* The Interpretation of the Parable */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">The Interpretation of the Parable</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              Jesus explained the parable to His disciples. The good seed represents the children of the kingdom (true believers). 
+              The tares represent the children of the wicked one (false believers). They grow together until the end of the world, 
+              when they will be separated.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"He answered and said unto them, He that soweth the good seed is the Son of man; The field is the world; the good seed are the children of the kingdom; but the tares are the children of the wicked one; The enemy that sowed them is the devil; the harvest is the end of the world; and the reapers are the angels."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 13:37-39 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"As therefore the tares are gathered and burned in the fire; so shall it be in the end of this world. The Son of man shall send forth his angels, and they shall gather out of his kingdom all things that offend, and them which do iniquity; And shall cast them into a furnace of fire: there shall be wailing and gnashing of teeth."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 13:40-42 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Then shall the righteous shine forth as the sun in the kingdom of their Father. Who hath ears to hear, let him hear."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 13:43 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* The Chaff and the Wheat */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">The Chaff and the Wheat</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              The Bible also uses the imagery of chaff and wheat. The chaff (the worthless husk) must be separated from the wheat (the valuable grain). 
+              The chaff will be burned with unquenchable fire; the wheat will be gathered into the barn.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Whose fan is in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 3:12 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Whose fan is in his hand, and he will throughly purge his floor, and will gather the wheat into his garner; but the chaff he will burn with fire unquenchable."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Luke 3:17 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"The prophet that hath a dream, let him tell a dream; and he that hath my word, let him speak my word faithfully. What is the chaff to the wheat? saith the LORD."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Jeremiah 23:28 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For, lo, I will command, and I will sift the house of Israel among all nations, like as corn is sifted in a sieve, yet shall not the least grain fall upon the earth."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Amos 9:9 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Growing Together Until the Harvest */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Growing Together Until the Harvest</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              The wheat and tares grow together until the harvest. They cannot be separated prematurely without uprooting the wheat. 
+              This is why we must be patient and wait for the harvest—the end of the age—when God will separate them.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Let both grow together until the harvest: and in the time of harvest I will say to the reapers, Gather ye together first the tares, and bind them in bundles to burn them: but gather the wheat into my barn."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 13:30 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"The servants said unto him, Wilt thou then that we go and gather them up? But he said, Nay; lest while ye gather up the tares, ye root up also the wheat with them."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 13:28-29 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"The harvest is the end of the world; and the reapers are the angels."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 13:39 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* The Final Separation */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">The Final Separation</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              At the end of the age, there will be a final separation. The tares will be gathered and burned. The chaff will be separated 
+              and burned with unquenchable fire. The wheat will be gathered into the barn. The righteous will shine forth as the sun.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"As therefore the tares are gathered and burned in the fire; so shall it be in the end of this world. The Son of man shall send forth his angels, and they shall gather out of his kingdom all things that offend, and them which do iniquity; And shall cast them into a furnace of fire: there shall be wailing and gnashing of teeth."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 13:40-42 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Then shall the righteous shine forth as the sun in the kingdom of their Father. Who hath ears to hear, let him hear."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 13:43 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Whose fan is in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 3:12 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And before him shall be gathered all nations: and he shall separate them one from another, as a shepherd divideth his sheep from the goats: And he shall set the sheep on his right hand, but the goats on the left."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 25:32-33 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* True Believers vs. False Believers */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">True Believers vs. False Believers</h3>
+            
+            <div className="grid md:grid-cols-2 gap-6 mb-8">
+              {/* Wheat - True Believers */}
+              <div className="bg-gradient-to-br from-yellow-50 to-amber-50 rounded-lg p-6 border-l-4 border-yellow-500">
+                <h4 className="text-2xl font-bold text-gray-900 mb-4">Wheat: True Believers</h4>
+                <div className="space-y-3">
+                  <div className="bg-white p-3 rounded">
+                    <p className="text-gray-800 mb-1">
+                      <strong>"The good seed are the children of the kingdom."</strong>
+                    </p>
+                    <p className="text-xs text-gray-600 text-right">— Matthew 13:38 (KJV)</p>
+                  </div>
+                  <div className="bg-white p-3 rounded">
+                    <p className="text-gray-800 mb-1">
+                      <strong>"Then shall the righteous shine forth as the sun in the kingdom of their Father."</strong>
+                    </p>
+                    <p className="text-xs text-gray-600 text-right">— Matthew 13:43 (KJV)</p>
+                  </div>
+                  <p className="text-sm text-gray-700 mt-4">
+                    <strong>Characteristics:</strong> Children of the kingdom, sown by the Son of man, gathered into the barn, 
+                    shine forth as the sun, saved.
+                  </p>
+                </div>
+              </div>
+
+              {/* Tares - False Believers */}
+              <div className="bg-gradient-to-br from-gray-50 to-slate-50 rounded-lg p-6 border-l-4 border-gray-500">
+                <h4 className="text-2xl font-bold text-gray-900 mb-4">Tares: False Believers</h4>
+                <div className="space-y-3">
+                  <div className="bg-white p-3 rounded">
+                    <p className="text-gray-800 mb-1">
+                      <strong>"The tares are the children of the wicked one."</strong>
+                    </p>
+                    <p className="text-xs text-gray-600 text-right">— Matthew 13:38 (KJV)</p>
+                  </div>
+                  <div className="bg-white p-3 rounded">
+                    <p className="text-gray-800 mb-1">
+                      <strong>"They shall gather out of his kingdom all things that offend, and them which do iniquity; And shall cast them into a furnace of fire: there shall be wailing and gnashing of teeth."</strong>
+                    </p>
+                    <p className="text-xs text-gray-600 text-right">— Matthew 13:41-42 (KJV)</p>
+                  </div>
+                  <p className="text-sm text-gray-700 mt-4">
+                    <strong>Characteristics:</strong> Children of the wicked one, sown by the enemy (devil), gathered and burned, 
+                    cast into furnace of fire, lost.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {/* Additional Supporting Verses */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Additional Supporting Verses</h3>
+            
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Another parable put he forth unto them, saying, The kingdom of heaven is likened unto a man which sowed good seed in his field: But while men slept, his enemy came and sowed tares among the wheat, and went his way."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 13:24-25 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Let both grow together until the harvest: and in the time of harvest I will say to the reapers, Gather ye together first the tares, and bind them in bundles to burn them: but gather the wheat into my barn."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 13:30 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"He answered and said unto them, He that soweth the good seed is the Son of man; The field is the world; the good seed are the children of the kingdom; but the tares are the children of the wicked one; The enemy that sowed them is the devil; the harvest is the end of the world; and the reapers are the angels."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 13:37-39 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"As therefore the tares are gathered and burned in the fire; so shall it be in the end of this world. The Son of man shall send forth his angels, and they shall gather out of his kingdom all things that offend, and them which do iniquity; And shall cast them into a furnace of fire: there shall be wailing and gnashing of teeth."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 13:40-42 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Then shall the righteous shine forth as the sun in the kingdom of their Father. Who hath ears to hear, let him hear."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 13:43 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Whose fan is in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 3:12 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Whose fan is in his hand, and he will throughly purge his floor, and will gather the wheat into his garner; but the chaff he will burn with fire unquenchable."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Luke 3:17 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"The prophet that hath a dream, let him tell a dream; and he that hath my word, let him speak my word faithfully. What is the chaff to the wheat? saith the LORD."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Jeremiah 23:28 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For, lo, I will command, and I will sift the house of Israel among all nations, like as corn is sifted in a sieve, yet shall not the least grain fall upon the earth."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Amos 9:9 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Application to Communication */}
+          <div className="bg-gradient-to-r from-amber-50 to-orange-50 rounded-xl p-8 mb-8 border-l-4 border-amber-500">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Application to Communication</h3>
+            <p className="text-lg text-gray-700 leading-relaxed mb-4">
+              Understanding the distinction between wheat and tares, good seed and chaff, transforms how we communicate:
+            </p>
+            <ul className="space-y-3 text-gray-700">
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Patience:</strong> Wheat and tares grow together until the harvest. We cannot separate them prematurely. We must be patient and wait for God's timing.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Discernment:</strong> We must discern between true believers (wheat) and false believers (tares), but we cannot judge prematurely. God will separate them at the harvest.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Final Separation:</strong> At the end of the age, there will be a final separation. The tares will be burned; the wheat will be gathered. The chaff will be separated and burned; the wheat will be preserved.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>True vs. False:</strong> Not everyone in the visible church is a true believer. There are both wheat and tares. We must be aware of this distinction.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>God's Judgment:</strong> The separation is God's work, not ours. We cannot and should not try to separate them prematurely. God will do it at the harvest.</span>
+              </li>
+            </ul>
+            <p className="text-lg text-gray-700 leading-relaxed mt-6">
+              Rightly dividing means understanding that in the visible church, there are both wheat (true believers) and tares (false believers). 
+              They grow together until the harvest. We cannot separate them prematurely without uprooting the wheat. But at the end of the age, 
+              God will separate them. The tares will be burned; the wheat will be gathered into the barn. The chaff will be separated and burned; 
+              the wheat will be preserved. The righteous will shine forth as the sun. This is the final separation. Speak this truth clearly, 
+              emphasizing patience, discernment, and trust in God's final judgment.
+            </p>
+          </div>
+        </section>
+
         {/* Conclusion */}
         <section className="bg-gradient-to-r from-indigo-600 to-pink-600 rounded-xl shadow-lg p-8 text-white">
           <h2 className="text-3xl font-bold mb-6">Conclusion: Rightly Dividing for Clear Communication</h2>
@@ -5373,6 +5749,10 @@ export default function AppendixPage() {
             <li>We must speak truth about religion, politics, and homosexuality - not remain silent</li>
             <li>We must speak truth in love - with compassion, to bring people to Christ (Ephesians 4:15)</li>
             <li>We are salt and light - we cannot hide truth, we must speak it and shine it (Matthew 5:13-16)</li>
+            <li>In the visible church, there are both wheat (true believers) and tares (false believers) - they grow together until the harvest (Matthew 13:24-30)</li>
+            <li>The chaff must be separated from the wheat - the chaff will be burned with unquenchable fire (Matthew 3:12)</li>
+            <li>At the end of the age, God will separate them - tares burned, wheat gathered into the barn (Matthew 13:40-43)</li>
+            <li>We must be patient and cannot separate them prematurely - God will do it at the harvest</li>
           </ul>
           <p className="text-lg leading-relaxed">
             When you understand these distinctions, you speak with authority that comes from knowing truth itself. You're not seeking approval 
@@ -5392,7 +5772,11 @@ export default function AppendixPage() {
             leads to right living. The mind of Christ enables us to think like God thinks and live according to His will. You understand that 
             we must obey God rather than men. When religious leaders or the world tell us to be silent about religion, politics, or homosexuality, 
             we must choose to obey God. We must preach the word in season and out of season. We must speak truth in love. We must be salt and light. 
-            We must fulfill our responsibility as watchmen. This is the believer's position. This is the foundation of eloquent, confident communication.
+            We must fulfill our responsibility as watchmen. You understand that in the visible church, there are both wheat (true believers) and 
+            tares (false believers). They grow together until the harvest. The chaff must be separated from the wheat. At the end of the age, 
+            God will separate them. The tares will be burned; the wheat will be gathered into the barn. The chaff will be separated and burned; 
+            the wheat will be preserved. We must be patient and cannot separate them prematurely. This is the believer's position. This is the 
+            foundation of eloquent, confident communication.
           </p>
           <div className="mt-6 p-4 bg-white bg-opacity-20 rounded-lg backdrop-blur-sm">
             <p className="text-xl italic mb-2">
