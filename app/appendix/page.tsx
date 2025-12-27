@@ -6632,6 +6632,1160 @@ export default function AppendixPage() {
           </div>
         </section>
 
+        {/* I Would Thou Wert Cold or Hot */}
+        <section className="bg-white rounded-xl shadow-lg p-8 mb-8">
+          <h2 className="text-4xl font-bold text-gray-900 mb-6 text-center">
+            <span className="bg-gradient-to-r from-indigo-600 to-pink-600 bg-clip-text text-transparent">
+              I Would Thou Wert Cold or Hot
+            </span>
+          </h2>
+          
+          {/* Key Verse Box */}
+          <div className="bg-gradient-to-r from-red-50 to-orange-50 border-l-4 border-red-500 p-6 mb-8 rounded">
+            <p className="text-2xl font-semibold text-gray-900 mb-4">
+              "I know thy works, that thou art neither cold nor hot: I would thou wert cold or hot. So then because thou art lukewarm, and neither cold nor hot, I will spue thee out of my mouth."
+            </p>
+            <p className="text-right text-gray-600 text-lg">— Revelation 3:15-16 (KJV)</p>
+          </div>
+
+          <p className="text-lg text-gray-700 leading-relaxed mb-8">
+            The Lord Jesus Christ's message to the church of Laodicea reveals a profound truth about spiritual condition: God prefers 
+            either cold or hot, but He will spew out the lukewarm. This is not about temperature, but about spiritual fervor, commitment, 
+            and wholehearted devotion. To be cold means to be clearly outside, not pretending. To be hot means to be fully committed, 
+            zealous, and on fire for God. But to be lukewarm—neither fully committed nor clearly outside—is the most dangerous condition. 
+            It is the condition of compromise, of having a form of godliness but denying the power thereof, of being neither for God nor 
+            against Him, but somewhere in between. God cannot use lukewarm believers. He will spew them out. Rightly dividing means 
+            understanding that there is no middle ground with God. You are either hot or cold. You are either fully committed or clearly 
+            outside. There is no room for lukewarmness, no room for compromise, no room for half-hearted devotion.
+          </p>
+
+          {/* The Danger of Lukewarmness */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">The Danger of Lukewarmness</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              Lukewarmness is the condition of being neither cold nor hot. It is the condition of compromise, of having a form of 
+              godliness but denying the power thereof. It is the condition of being neither fully committed nor clearly outside. 
+              God will spew out the lukewarm. He cannot use them. He will reject them.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"I know thy works, that thou art neither cold nor hot: I would thou wert cold or hot. So then because thou art lukewarm, and neither cold nor hot, I will spue thee out of my mouth."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 3:15-16 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"This know also, that in the last days perilous times shall come. For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy, Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good, Traitors, heady, highminded, lovers of pleasures more than lovers of God; Having a form of godliness, but denying the power thereof: from such turn away."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Timothy 3:1-5 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 6:24 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"He that is not with me is against me; and he that gathereth not with me scattereth abroad."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 12:30 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And Elijah came unto all the people, and said, How long halt ye between two opinions? if the LORD be God, follow him: but if Baal, then follow him. And the people answered him not a word."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Kings 18:21 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"So then because thou art lukewarm, and neither cold nor hot, I will spue thee out of my mouth."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 3:16 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But it is happened unto them according to the true proverb, The dog is turned to his own vomit again; and the sow that was washed to her wallowing in the mire."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Peter 2:22 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For if after they have escaped the pollutions of the world through the knowledge of the Lord and Saviour Jesus Christ, they are again entangled therein, and overcome, the latter end is worse with them than the beginning."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Peter 2:20 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Being Hot: Fully Committed and Zealous */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Being Hot: Fully Committed and Zealous</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              To be hot means to be fully committed, zealous, and on fire for God. It means to be wholehearted in devotion, 
+              passionate in service, and unwavering in commitment. God desires hot believers—those who are fully committed to Him, 
+              those who are zealous for His glory, those who are on fire for His truth.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"I would thou wert cold or hot."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 3:15 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Not slothful in business; fervent in spirit; serving the Lord."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 12:11 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And whatsoever ye do, do it heartily, as to the Lord, and not unto men."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Colossians 3:23 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 12:1 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Deuteronomy 6:5 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 22:37 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And he said unto him, Son, thou art ever with me, and all that I have is thine."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Luke 15:31 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For the zeal of thine house hath eaten me up; and the reproaches of them that reproached thee are fallen upon me."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Psalm 69:9 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And his disciples remembered that it was written, The zeal of thine house hath eaten me up."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— John 2:17 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"As many as I love, I rebuke and chasten: be zealous therefore, and repent."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 3:19 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And he that overcometh, and keepeth my works unto the end, to him will I give power over the nations."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 2:26 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Acts 1:8 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:16 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Timothy 4:2 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For the love of Christ constraineth us; because we thus judge, that if one died for all, then were all dead: And that he died for all, that they which live should not henceforth live unto themselves, but unto him which died for them, and rose again."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Corinthians 5:14-15 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Being Cold: Clearly Outside, Not Pretending */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Being Cold: Clearly Outside, Not Pretending</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              To be cold means to be clearly outside, not pretending. It is better to be cold—clearly outside, not pretending to be 
+              something you are not—than to be lukewarm—pretending to be something you are not. God prefers honesty. He prefers 
+              truth. He prefers that you be clearly outside rather than pretending to be inside while being lukewarm.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"I would thou wert cold or hot."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 3:15 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But let your communication be, Yea, yea; Nay, nay: for whatsoever is more than these cometh of evil."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 5:37 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"These six things doth the LORD hate: yea, seven are an abomination unto him: A proud look, a lying tongue, and hands that shed innocent blood, An heart that deviseth wicked imaginations, feet that be swift in running to mischief, A false witness that speaketh lies, and he that soweth discord among brethren."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Proverbs 6:16-19 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Lying lips are abomination to the LORD: but they that deal truly are his delight."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Proverbs 12:22 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Ephesians 4:25 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burneth with fire and brimstone: which is the second death."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 21:8 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For there is nothing covered, that shall not be revealed; neither hid, that shall not be known."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Luke 12:2 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Ecclesiastes 12:14 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But if ye have bitter envying and strife in your hearts, glory not, and lie not against the truth."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— James 3:14 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* No Middle Ground with God */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">No Middle Ground with God</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              There is no middle ground with God. You are either hot or cold. You are either fully committed or clearly outside. 
+              You are either for God or against Him. You cannot serve two masters. You cannot be lukewarm. You cannot compromise. 
+              God will spew out the lukewarm. He cannot use them. He will reject them.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"So then because thou art lukewarm, and neither cold nor hot, I will spue thee out of my mouth."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 3:16 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"He that is not with me is against me; and he that gathereth not with me scattereth abroad."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 12:30 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 6:24 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And Elijah came unto all the people, and said, How long halt ye between two opinions? if the LORD be God, follow him: but if Baal, then follow him. And the people answered him not a word."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Kings 18:21 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Choose you this day whom ye will serve; whether the gods which your fathers served that were on the other side of the flood, or the gods of the Amorites, in whose land ye dwell: but as for me and my house, we will serve the LORD."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Joshua 24:15 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"If the LORD be God, follow him: but if Baal, then follow him."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Kings 18:21 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And if it seem evil unto you to serve the LORD, choose you this day whom ye will serve; whether the gods which your fathers served that were on the other side of the flood, or the gods of the Amorites, in whose land ye dwell: but as for me and my house, we will serve the LORD."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Joshua 24:15 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And if ye will not serve him, he will break off from you, and destroy you, after that he hath done you good."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Joshua 24:20 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Deuteronomy 30:19 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And if it seem evil unto you to serve the LORD, choose you this day whom ye will serve."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Joshua 24:15 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* The Call to Repentance and Zeal */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">The Call to Repentance and Zeal</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              The Lord calls the lukewarm to repentance and zeal. He calls them to be hot—fully committed, zealous, and on fire for God. 
+              He calls them to turn from their lukewarmness, to repent, and to be zealous. He stands at the door and knocks. 
+              He calls them to open the door and let Him in. He calls them to fellowship with Him, to sup with Him, to be fully committed to Him.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"As many as I love, I rebuke and chasten: be zealous therefore, and repent."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 3:19 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 3:20 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Repent ye therefore, and be converted, that your sins may be blotted out, when the times of refreshing shall come from the presence of the Lord."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Acts 3:19 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Peter 3:9 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"I tell you, Nay: but, except ye repent, ye shall all likewise perish."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Luke 13:3 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"I tell you, Nay: but, except ye repent, ye shall all likewise perish."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Luke 13:5 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"From that time Jesus began to preach, and to say, Repent: for the kingdom of heaven is at hand."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 4:17 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And saying, The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the gospel."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Mark 1:15 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And the times of this ignorance God winked at; but now commandeth all men every where to repent."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Acts 17:30 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For godly sorrow worketh repentance to salvation not to be repented of: but the sorrow of the world worketh death."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Corinthians 7:10 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 John 1:9 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Draw nigh to God, and he will draw nigh to you. Cleanse your hands, ye sinners; and purify your hearts, ye double minded."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— James 4:8 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Additional Supporting Verses */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Additional Supporting Verses</h3>
+            
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Because thou sayest, I am rich, and increased with goods, and have need of nothing; and knowest not that thou art wretched, and miserable, and poor, and blind, and naked."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 3:17 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"I counsel thee to buy of me gold tried in the fire, that thou mayest be rich; and white raiment, that thou mayest be clothed, and that the shame of thy nakedness do not appear; and anoint thine eyes with eyesalve, that thou mayest see."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 3:18 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"To him that overcometh will I grant to sit with me in my throne, even as I also overcame, and am set down with my Father in his throne."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 3:21 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"He that hath an ear, let him hear what the Spirit saith unto the churches."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 3:22 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 12:2 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Wherefore come out from among them, and be ye separate, saith the Lord, and touch not the unclean thing; and I will receive you."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Corinthians 6:17 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And be not drunk with wine, wherein is excess; but be filled with the Spirit."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Ephesians 5:18 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Quench not the Spirit."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Thessalonians 5:19 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And that, knowing the time, that now it is high time to awake out of sleep: for now is our salvation nearer than when we believed."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 13:11 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Awake thou that sleepest, and arise from the dead, and Christ shall give thee light."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Ephesians 5:14 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Watch ye, stand fast in the faith, quit you like men, be strong."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 16:13 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Fight the good fight of faith, lay hold on eternal life, whereunto thou art also called, and hast professed a good profession before many witnesses."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Timothy 6:12 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"I have fought a good fight, I have finished my course, I have kept the faith."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Timothy 4:7 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But ye, brethren, be not weary in well doing."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Thessalonians 3:13 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And let us not be weary in well doing: for in due season we shall reap, if we faint not."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Galatians 6:9 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 15:58 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Acts 1:8 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Timothy 1:7 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:16 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Corinthians 1:18 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Application to Communication */}
+          <div className="bg-gradient-to-r from-amber-50 to-orange-50 rounded-xl p-8 mb-8 border-l-4 border-amber-500">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Application to Communication</h3>
+            <p className="text-lg text-gray-700 leading-relaxed mb-4">
+              Understanding that God prefers cold or hot, but will spew out the lukewarm, transforms how we communicate:
+            </p>
+            <ul className="space-y-3 text-gray-700">
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>No Lukewarm Communication:</strong> God will spew out the lukewarm. There is no room for lukewarmness in communication. You must be either hot—fully committed, zealous, and on fire for truth—or cold—clearly outside, not pretending. There is no middle ground.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Be Hot: Fully Committed:</strong> Be hot—fully committed to truth, zealous for God's glory, on fire for His Word. Speak with passion, conviction, and wholehearted devotion. Do not be lukewarm. Do not compromise. Do not be half-hearted.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Be Cold: Clearly Outside:</strong> If you are not fully committed, be cold—clearly outside, not pretending. It is better to be cold—honest about your position—than to be lukewarm—pretending to be something you are not. God prefers honesty over hypocrisy.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>No Middle Ground:</strong> There is no middle ground with God. You are either for Him or against Him. You are either hot or cold. You cannot serve two masters. You cannot be lukewarm. Speak this truth clearly: there is no room for compromise.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Call to Repentance and Zeal:</strong> Call the lukewarm to repentance and zeal. Call them to be hot—fully committed, zealous, and on fire for God. Call them to turn from their lukewarmness, to repent, and to be zealous. The Lord stands at the door and knocks.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Wholehearted Devotion:</strong> Communicate with wholehearted devotion. Love the Lord with all your heart, soul, and mind. Serve Him with all your might. Do not be slothful in business, but be fervent in spirit, serving the Lord.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>No Compromise:</strong> There is no room for compromise in communication. Do not compromise truth. Do not compromise conviction. Do not compromise zeal. Be hot—fully committed to truth, zealous for God's glory, on fire for His Word.</span>
+              </li>
+            </ul>
+            <p className="text-lg text-gray-700 leading-relaxed mt-6">
+              Rightly dividing means understanding that God prefers cold or hot, but will spew out the lukewarm. There is no middle ground with God. 
+              You are either hot—fully committed, zealous, and on fire for truth—or cold—clearly outside, not pretending. There is no room for 
+              lukewarmness, no room for compromise, no room for half-hearted devotion. God will spew out the lukewarm. He cannot use them. 
+              He will reject them. Speak this truth clearly, calling the lukewarm to repentance and zeal, to be hot—fully committed to truth, 
+              zealous for God's glory, on fire for His Word. The Lord stands at the door and knocks. He calls them to open the door and let Him in. 
+              He calls them to fellowship with Him, to sup with Him, to be fully committed to Him. This is the believer's position. 
+              This is the foundation of eloquent, confident communication.
+            </p>
+          </div>
+        </section>
+
+        {/* Cold or Hot: Not Lukewarm */}
+        <section className="bg-white rounded-xl shadow-lg p-8 mb-8">
+          <h2 className="text-4xl font-bold text-gray-900 mb-6 text-center">
+            <span className="bg-gradient-to-r from-indigo-600 to-pink-600 bg-clip-text text-transparent">
+              I Would Thou Wert Cold or Hot: Not Lukewarm (Revelation 3:15-16)
+            </span>
+          </h2>
+          
+          <div className="bg-gradient-to-r from-red-50 to-orange-50 border-l-4 border-red-500 p-6 mb-8 rounded">
+            <p className="text-2xl font-semibold text-gray-900 mb-4">
+              "I know thy works, that thou art neither cold nor hot: I would thou wert cold or hot. So then because thou art lukewarm, and neither cold nor hot, I will spue thee out of my mouth."
+            </p>
+            <p className="text-right text-gray-600 text-lg">— Revelation 3:15-16 (KJV)</p>
+          </div>
+
+          <p className="text-lg text-gray-700 leading-relaxed mb-8">
+            God's message to the Laodicean church is clear: He would rather have us cold or hot, but not lukewarm. 
+            Lukewarmness—half-hearted commitment, partial obedience, compromised faith—is unacceptable. God will spew 
+            out the lukewarm. We must be either fully committed or not at all. There is no middle ground.
+          </p>
+
+          {/* The Laodicean Church */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">The Laodicean Church: Neither Cold Nor Hot</h3>
+            
+            <div className="bg-indigo-50 border-l-4 border-indigo-500 p-6 mb-6 rounded">
+              <p className="text-xl font-semibold text-gray-900 mb-4">
+                "And unto the angel of the church of the Laodiceans write; These things saith the Amen, the faithful and true witness, the beginning of the creation of God; I know thy works, that thou art neither cold nor hot: I would thou wert cold or hot."
+              </p>
+              <p className="text-right text-gray-600">— Revelation 3:14-15 (KJV)</p>
+            </div>
+
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              The Laodicean church represents the lukewarm church—neither cold nor hot. They were not fully committed, 
+              not fully faithful, not fully obedient. They were in the middle—lukewarm. This is the worst condition: 
+              not fully for God, not fully against Him, but somewhere in between.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And unto the angel of the church of the Laodiceans write; These things saith the Amen, the faithful and true witness, the beginning of the creation of God; I know thy works, that thou art neither cold nor hot: I would thou wert cold or hot."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 3:14-15 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"So then because thou art lukewarm, and neither cold nor hot, I will spue thee out of my mouth."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 3:16 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Because thou sayest, I am rich, and increased with goods, and have need of nothing; and knowest not that thou art wretched, and miserable, and poor, and blind, and naked."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 3:17 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* I Will Spew Thee Out */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">I Will Spew Thee Out: The Consequence of Lukewarmness</h3>
+            
+            <div className="bg-red-50 border-l-4 border-red-500 p-6 mb-6 rounded">
+              <p className="text-xl font-semibold text-gray-900 mb-4">
+                "So then because thou art lukewarm, and neither cold nor hot, I will spue thee out of my mouth."
+              </p>
+              <p className="text-right text-gray-600">— Revelation 3:16 (KJV)</p>
+            </div>
+
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              The consequence of lukewarmness is severe: God will spew—vomit, reject, cast out—the lukewarm. 
+              This is not a gentle rebuke. This is a strong rejection. God cannot tolerate lukewarmness. 
+              It is better to be cold (not claiming to be a believer) or hot (fully committed) than to be lukewarm (claiming to be a believer but not fully committed).
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"So then because thou art lukewarm, and neither cold nor hot, I will spue thee out of my mouth."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 3:16 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"I know thy works, that thou art neither cold nor hot: I would thou wert cold or hot."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 3:15 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"He that is not with me is against me; and he that gathereth not with me scattereth abroad."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 12:30 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 6:24 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And Elijah came unto all the people, and said, How long halt ye between two opinions? if the LORD be God, follow him: but if Baal, then follow him. And the people answered him not a word."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Kings 18:21 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Hot: Fully Committed */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Hot: Fully Committed</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              To be hot means to be fully committed, fully faithful, fully obedient. It means to be zealous, 
+              passionate, wholehearted in following Christ. This is what God desires.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"I know thy works, that thou art neither cold nor hot: I would thou wert cold or hot."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 3:15 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And he said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 22:37 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And thou shalt love the Lord thy God with all thine heart, and with all thy soul, and with all thy might."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Deuteronomy 6:5 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Not slothful in business; fervent in spirit; serving the Lord."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 12:11 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And whatsoever ye do, do it heartily, as to the Lord, and not unto men."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Colossians 3:23 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 12:1 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And he said unto them, Go ye into all the world, and preach the gospel to every creature."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Mark 16:15 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Cold: Not Claiming to Be a Believer */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Cold: Not Claiming to Be a Believer</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              To be cold means to be honest about not being a believer. It is better to be cold—honest about unbelief—than 
+              to be lukewarm—claiming to be a believer but not fully committed. At least the cold person is honest.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"I know thy works, that thou art neither cold nor hot: I would thou wert cold or hot."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 3:15 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works, there is none that doeth good."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Psalm 14:1 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 1:20 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But he that denieth me before men shall be denied before the angels of God."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Luke 12:9 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Lukewarm: The Worst Condition */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Lukewarm: The Worst Condition</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              Lukewarm is the worst condition. It is claiming to be a believer but not being fully committed. 
+              It is having one foot in the world and one foot in the church. It is compromise, half-heartedness, 
+              partial obedience. God will spew out the lukewarm.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"So then because thou art lukewarm, and neither cold nor hot, I will spue thee out of my mouth."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 3:16 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"I know thy works, that thou art neither cold nor hot: I would thou wert cold or hot."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 3:15 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"This people draweth nigh unto me with their mouth, and honoureth me with their lips; but their heart is far from me."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 15:8 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"But in vain they do worship me, teaching for doctrines the commandments of men."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 15:9 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And Elijah came unto all the people, and said, How long halt ye between two opinions? if the LORD be God, follow him: but if Baal, then follow him. And the people answered him not a word."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 1 Kings 18:21 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 6:24 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"He that is not with me is against me; and he that gathereth not with me scattereth abroad."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 12:30 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* The Call to Repentance */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">The Call to Repentance</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              Despite the strong rebuke, God calls the lukewarm to repentance. He offers them a chance to become hot—fully committed, 
+              fully faithful, fully zealous. But they must choose. They cannot remain lukewarm.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"As many as I love, I rebuke and chasten: be zealous therefore, and repent."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 3:19 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 3:20 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"I counsel thee to buy of me gold tried in the fire, that thou mayest be rich; and white raiment, that thou mayest be clothed, and that the shame of thy nakedness do not appear; and anoint thine eyes with eyesalve, that thou mayest see."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 3:18 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Repent ye therefore, and be converted, that your sins may be blotted out, when the times of refreshing shall come from the presence of the Lord."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Acts 3:19 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— 2 Peter 3:9 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Zealous and Repent */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Be Zealous and Repent</h3>
+            
+            <p className="text-lg text-gray-700 leading-relaxed mb-6">
+              The solution to lukewarmness is clear: be zealous and repent. Become hot. Be fully committed. 
+              Be passionate. Be wholehearted. Repent of lukewarmness and become zealous for God.
+            </p>
+
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"As many as I love, I rebuke and chasten: be zealous therefore, and repent."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 3:19 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Not slothful in business; fervent in spirit; serving the Lord."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 12:11 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And whatsoever ye do, do it heartily, as to the Lord, and not unto men."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Colossians 3:23 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Romans 12:1 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And he said unto them, Go ye into all the world, and preach the gospel to every creature."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Mark 16:15 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Additional Supporting Verses */}
+          <div className="mb-12">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Additional Supporting Verses</h3>
+            
+            <div className="space-y-4">
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"I know thy works, that thou art neither cold nor hot: I would thou wert cold or hot. So then because thou art lukewarm, and neither cold nor hot, I will spue thee out of my mouth."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 3:15-16 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Because thou sayest, I am rich, and increased with goods, and have need of nothing; and knowest not that thou art wretched, and miserable, and poor, and blind, and naked."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 3:17 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"I counsel thee to buy of me gold tried in the fire, that thou mayest be rich; and white raiment, that thou mayest be clothed, and that the shame of thy nakedness do not appear; and anoint thine eyes with eyesalve, that thou mayest see."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 3:18 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"As many as I love, I rebuke and chasten: be zealous therefore, and repent."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 3:19 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 3:20 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"He that hath an ear, let him hear what the Spirit saith unto the churches."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Revelation 3:22 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 22:37 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"And thou shalt love the Lord thy God with all thine heart, and with all thy soul, and with all thy might."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Deuteronomy 6:5 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 6:24 (KJV)</p>
+              </div>
+
+              <div className="bg-gray-50 p-4 rounded-lg">
+                <p className="text-gray-800 mb-2">
+                  <strong>"He that is not with me is against me; and he that gathereth not with me scattereth abroad."</strong>
+                </p>
+                <p className="text-sm text-gray-600 text-right">— Matthew 12:30 (KJV)</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Application to Communication */}
+          <div className="bg-gradient-to-r from-amber-50 to-orange-50 rounded-xl p-8 mb-8 border-l-4 border-amber-500">
+            <h3 className="text-3xl font-bold text-gray-900 mb-6">Application to Communication</h3>
+            <p className="text-lg text-gray-700 leading-relaxed mb-4">
+              Understanding the call to be cold or hot, not lukewarm, transforms how we communicate:
+            </p>
+            <ul className="space-y-3 text-gray-700">
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Be Hot, Not Lukewarm:</strong> In communication, be fully committed, fully passionate, fully zealous. Don't be half-hearted. Don't compromise. Be hot—fully for truth, fully for God.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>No Middle Ground:</strong> There is no middle ground. You're either fully committed or not. You're either hot or cold. Lukewarm is unacceptable. God will spew out the lukewarm.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Be Zealous:</strong> Be zealous for truth. Be zealous for God's Word. Be zealous in communication. Not half-hearted, not lukewarm, but zealous—hot, passionate, fully committed.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Repent of Lukewarmness:</strong> If you've been lukewarm, repent. Become hot. Be fully committed. Don't remain in the middle. Choose: hot or cold, but not lukewarm.</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-amber-600 font-bold mr-3">•</span>
+                <span><strong>Wholehearted Communication:</strong> Communicate wholeheartedly. Not with one foot in the world and one foot in the church. Not with partial commitment. But with full commitment, full passion, full zeal.</span>
+              </li>
+            </ul>
+            <p className="text-lg text-gray-700 leading-relaxed mt-6">
+              Rightly dividing means understanding that God would rather have us cold or hot, but not lukewarm. 
+              Lukewarmness—half-hearted commitment, partial obedience, compromised faith—is unacceptable. God will spew out the lukewarm. 
+              We must be either fully committed or not at all. There is no middle ground. Be zealous and repent. Become hot. 
+              Be fully committed to truth, to God's Word, to communicating with full passion and zeal. This is how we communicate 
+              with authority and conviction—not lukewarm, but hot, fully committed, fully zealous.
+            </p>
+          </div>
+        </section>
+
         {/* Conclusion */}
         <section className="bg-gradient-to-r from-indigo-600 to-pink-600 rounded-xl shadow-lg p-8 text-white">
           <h2 className="text-3xl font-bold mb-6">Conclusion: Rightly Dividing for Clear Communication</h2>
@@ -6694,6 +7848,19 @@ export default function AppendixPage() {
             <li>We must beware of philosophy and vain deceit - not after Christ, but after the tradition of men</li>
             <li>True Christians are rooted in Christ, built up in Him, established in His Word - not in man's ideas</li>
             <li>There is no room for compromise - to follow false ideas is to deny Christ and be unfaithful to God</li>
+            <li>I would thou wert cold or hot - God prefers cold or hot, but will spew out the lukewarm (Revelation 3:15-16)</li>
+            <li>Be zealous and repent - become hot, fully committed, fully passionate, not half-hearted (Revelation 3:19)</li>
+            <li>There is no middle ground - you're either fully committed or not, hot or cold, but not lukewarm</li>
+            <li>Lukewarmness is the worst condition - claiming to be a believer but not fully committed</li>
+            <li>To be hot means to be fully committed, zealous, and on fire for God - wholehearted devotion and unwavering commitment</li>
+            <li>To be cold means to be clearly outside, not pretending - God prefers honesty over hypocrisy</li>
+            <li>Lukewarmness is the most dangerous condition - having a form of godliness but denying the power thereof</li>
+            <li>There is no middle ground with God - you are either for Him or against Him, either hot or cold</li>
+            <li>You cannot serve two masters - you cannot be lukewarm, you cannot compromise (Matthew 6:24)</li>
+            <li>The Lord calls the lukewarm to repentance and zeal - be zealous therefore, and repent (Revelation 3:19)</li>
+            <li>He stands at the door and knocks - calling the lukewarm to open the door and let Him in (Revelation 3:20)</li>
+            <li>Be fervent in spirit, serving the Lord - not slothful in business, but wholehearted in devotion (Romans 12:11)</li>
+            <li>Love the Lord with all your heart, soul, and mind - there is no room for half-hearted devotion (Matthew 22:37)</li>
           </ul>
           <p className="text-lg leading-relaxed">
             When you understand these distinctions, you speak with authority that comes from knowing truth itself. You're not seeking approval 
@@ -6722,7 +7889,15 @@ export default function AppendixPage() {
             cannot and must not follow false philosophy, false religion, or false ideas. The answer is clear: No. True Christians must follow Christ 
             alone. They must be rooted in Him. They must be built up in Him. They must be established in His Word. They must beware of philosophy and 
             vain deceit. They must not be conformed to this world. They must follow God's wisdom, not the world's wisdom. There is no room for compromise. 
-            This is the believer's position. This is the foundation of eloquent, confident communication.
+            You understand that God would rather have us cold or hot, but not lukewarm. Lukewarmness—half-hearted commitment, partial obedience, 
+            compromised faith—is unacceptable. God will spew out the lukewarm. We must be either fully committed or not at all. There is no middle ground. 
+            Be zealous and repent. Become hot. Be fully committed to truth, to God's Word, to communicating with full passion and zeal. This is the 
+            believer's position. This is the foundation of eloquent, confident communication. 
+            committed, zealous, and on fire for truth—or cold—clearly outside, not pretending. There is no room for lukewarmness, no room for compromise, 
+            no room for half-hearted devotion. God will spew out the lukewarm. He cannot use them. He will reject them. The Lord calls the lukewarm to 
+            repentance and zeal. He stands at the door and knocks. He calls them to open the door and let Him in. He calls them to fellowship with Him, 
+            to sup with Him, to be fully committed to Him. Be hot—fully committed to truth, zealous for God's glory, on fire for His Word. Love the Lord 
+            with all your heart, soul, and mind. Be fervent in spirit, serving the Lord. This is the believer's position. This is the foundation of eloquent, confident communication.
           </p>
           <div className="mt-6 p-4 bg-white bg-opacity-20 rounded-lg backdrop-blur-sm">
             <p className="text-xl italic mb-2">
